@@ -1,0 +1,187 @@
+nohup: ignoring input
+D
+cellvalue empty
+0
+C
+1
+C
+cellvalue empty
+3
+D
+cellvalue empty
+5
+B
+6
+B
+cellvalue empty
+7
+D
+8
+A
+cellvalue empty
+9
+B
+11
+D
+cellvalue empty
+12
+C
+cellvalue empty
+13
+A
+cellvalue empty
+14
+A
+cellvalue empty
+15
+B
+cellvalue empty
+16
+B
+cellvalue empty
+17
+B
+cellvalue empty
+18
+D
+cellvalue empty
+19
+B
+20
+A
+cellvalue empty
+21
+B
+cellvalue empty
+22
+B
+cellvalue empty
+23
+C
+cellvalue empty
+24
+B
+cellvalue empty
+25
+B
+cellvalue empty
+26
+D
+27
+C
+cellvalue empty
+28
+D
+cellvalue empty
+29
+D
+cellvalue empty
+30
+API request failed on attempt 1. Error: Bad gateway. {"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}} 502 {'error': {'code': 502, 'message': 'Bad gateway.', 'param': None, 'type': 'cf_bad_gateway'}} {'Date': 'Tue, 07 Nov 2023 18:56:32 GMT', 'Content-Type': 'application/json', 'Content-Length': '84', 'Connection': 'keep-alive', 'X-Frame-Options': 'SAMEORIGIN', 'Referrer-Policy': 'same-origin', 'Cache-Control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'Expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'Server': 'cloudflare', 'CF-RAY': '8227bd54df63430f-EWR', 'alt-svc': 'h3=":443"; ma=86400'}
+A
+cellvalue empty
+31
+C
+cellvalue empty
+32
+A
+cellvalue empty
+33
+Word exceed 34
+A
+cellvalue empty
+34
+B
+cellvalue empty
+35
+C
+cellvalue empty
+36
+Word exceed 37
+D
+cellvalue empty
+37
+D
+cellvalue empty
+38
+D
+cellvalue empty
+39
+B
+cellvalue empty
+40
+B
+41
+C
+42
+D
+43
+D
+cellvalue empty
+44
+A
+cellvalue empty
+45
+D
+cellvalue empty
+46
+B
+cellvalue empty
+47
+C
+cellvalue empty
+48
+B
+49
+C
+cellvalue empty
+50
+C
+cellvalue empty
+51
+B
+cellvalue empty
+52
+C
+cellvalue empty
+53
+B
+cellvalue empty
+54
+B
+cellvalue empty
+55
+D
+cellvalue empty
+56
+C
+cellvalue empty
+57
+D
+cellvalue empty
+58
+B
+cellvalue empty
+59
+A
+cellvalue empty
+60
+C
+cellvalue empty
+61
+A
+62
+A
+63
+B
+cellvalue empty
+64
+B
+cellvalue empty
+65
+A
+cellvalue empty
+66
+B
+cellvalue empty
+67

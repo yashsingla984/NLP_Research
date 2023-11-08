@@ -1,0 +1,19 @@
+Result of Chatgpt when using chain of thought
+
+IsChatGptCorrect                                  No  Yes  Percentage_Yes
+ModifiedMedicalField                                                     
+Endoscopy                                         23   13       36.111111
+JAMA Cardiology Clinical Challenge                40   25       38.461538
+JAMA Clinical Challenge                           71   72       50.349650
+JAMA Dermatology Clinicopathological Challenge   144   98       40.495868
+JAMA Diagnostic Test Interpretation               22   18       45.000000
+JAMA Neurology Clinical Challenge                 26   18       40.909091
+JAMA Oncology Clinical Challenge                  36   43       54.430380
+JAMA Oncology Diagnostic Test Interpretation       1    0        0.000000
+JAMA Ophthalmology Clinical Challenge            175  164       48.377581
+JAMA Pediatrics Clinical Challenge                24   24       50.000000
+JAMA Psychiatry Clinical Challenge                 0    5      100.000000
+JAMA Surgery Clinical Challenge                   68   44       39.285714
+Pathology                                         52   65       55.555556
+Pediatric Quality Measures                         0    1      100.000000
+Radiology                                         48   32       40.000000

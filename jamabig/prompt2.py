@@ -116,7 +116,7 @@ for ind in dataframe1.index:
         print(f"Max retry attempts reached for question {ind}. Skipping this question.")
 
 #print(dataframe2.iloc[0])
-dataframe2.to_excel("output_chatgpt_onlyalpha_big_temp.xlsx")
+dataframe2.to_excel("output_chatgpt_onlyalpha_big_temp2.xlsx")
 # print(dataframe2.iloc[0])
 print("yassssh")
 #print(messages)

@@ -12,7 +12,7 @@ import openai
 
 max_retries = 3
   
-openai.api_key = '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'
+openai.api_key = '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'
 
 dataframe1 = pd.read_excel('output_fin_jama_big2.xlsx')
 dataframe2=dataframe1
@@ -116,4 +116,4 @@ for ind in dataframe1.index:
         print(f"Max retry attempts reached for question {ind}. Skipping this question.")
 
 
-dataframe2.to_excel("output_chatgpt_onlyalpha_big_temp_chain1.xlsx")
+dataframe2.to_excel("output_chatgpt_onlyalpha_big_temp_chain2.xlsx")

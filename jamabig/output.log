@@ -1,2 +1,22 @@
 nohup: ignoring input
-python: can't open file 'prompt4.py': [Errno 2] No such file or directory
+API request failed on attempt 1. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 2. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 3. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+Max retry attempts reached for question 0. Skipping this question.
+API request failed on attempt 1. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 2. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 3. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+Max retry attempts reached for question 1. Skipping this question.
+API request failed on attempt 1. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 2. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 3. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+Max retry attempts reached for question 2. Skipping this question.
+API request failed on attempt 1. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 2. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 3. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+Max retry attempts reached for question 3. Skipping this question.
+API request failed on attempt 1. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 2. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+API request failed on attempt 3. Error: Incorrect API key provided: sk-tImm1***************************************IJGO. You can find your API key at https://platform.openai.com/account/api-keys.
+Max retry attempts reached for question 4. Skipping this question.
+yassssh
