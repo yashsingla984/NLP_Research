@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the data from the Excel file
-file_path = 'output_palm_onlyalpha_big_temp2.xlsx'  # Replace with the path to your Excel file
+file_path = 'output_palm_onlyalpha_big_temp2_renamed.xlsx'  # Replace with the path to your Excel file
 df = pd.read_excel(file_path)
 
 # Group the data by 'MedicalField' and count the 'IsChatGptCorrect' values
