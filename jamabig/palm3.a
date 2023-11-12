@@ -1,0 +1,18 @@
+IsPalmCorrect                                     No  Yes  Percentage_Yes
+ModifiedMedicalField                                                     
+Endoscopy                                         15   20       57.142857
+JAMA Cardiology Clinical Challenge                46   22       32.352941
+JAMA Cardiology Diagnostic Test Interpretation     0    1      100.000000
+JAMA Clinical Challenge                           81   63       43.750000
+JAMA Dermatology Clinicopathological Challenge   113  134       54.251012
+JAMA Diagnostic Test Interpretation               38   31       44.927536
+JAMA Neurology Clinical Challenge                 23   24       51.063830
+JAMA Oncology Clinical Challenge                  36   43       54.430380
+JAMA Oncology Diagnostic Test Interpretation       4    0        0.000000
+JAMA Ophthalmology Clinical Challenge            188  163       46.438746
+JAMA Pediatrics Clinical Challenge                22   25       53.191489
+JAMA Psychiatry Clinical Challenge                 0    1      100.000000
+JAMA Surgery Clinical Challenge                   68   54       44.262295
+Pathology                                         42   77       64.705882
+Pediatric Quality Measures                         0    1      100.000000
+Radiology                                         47   39       45.348837
