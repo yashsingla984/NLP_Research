@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the data from the Excel file
-file_path = 'output_chatgpt_onlyalpha_big_temp_chain3.xlsx'  # Replace with the path to your Excel file
+file_path = 'output_chatgpt3_5_Cot_X_RY.xlsx'  # Replace with the path to your Excel file
 df = pd.read_excel(file_path)
 
 # Group the data by 'MedicalField' and count the 'IsChatGptCorrect' values

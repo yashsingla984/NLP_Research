@@ -1,0 +1,16 @@
+IsChatGptCorrect       No  Yes  Percentage_Yes
+ModifiedMedicalField                          
+Cardiology             39   26       40.000000
+Dermatology           132  118       47.200000
+Diagnostic             32   25       43.859649
+Endoscopy              16   19       54.285714
+JAMA                   87   65       42.763158
+Neurology              30   16       34.782609
+Oncology               36   46       56.097561
+Ophthalmology         181  181       50.000000
+Pathology              46   80       63.492063
+Pediactrics             1    0        0.000000
+Pediatrics             22   31       58.490566
+Psychiatry              2    3       60.000000
+Radiology              48   43       47.252747
+Surgery                74   51       40.800000

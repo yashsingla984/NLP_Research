@@ -12,7 +12,7 @@ import openai
 
 max_retries = 3
   
-openai.api_key = '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'
+openai.api_key = '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'
 
 messages = [ {"role": "system", "content":  
               "You are a intelligent assistant."} ] 
@@ -31,7 +31,7 @@ dataframe2['ModifiedMedicalField']=""
 
 
 for ind in dataframe1.index:
-    if ind==5:
+    if ind==1526:
         break
     
     title=dataframe1['Title'][ind]
@@ -116,7 +116,7 @@ for ind in dataframe1.index:
         print(f"Max retry attempts reached for question {ind}. Skipping this question.")
 
 #print(dataframe2.iloc[0])
-dataframe2.to_excel("output_chatgpt_onlyalpha_big_temp2.xlsx")
+dataframe2.to_excel("output_chatgpt3_5_XY.xlsx")
 # print(dataframe2.iloc[0])
 print("yassssh")
 #print(messages)

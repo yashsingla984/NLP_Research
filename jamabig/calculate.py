@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Replace 'your_file.xlsx' with the path to your Excel file and 'Sheet1' with the sheet name
-file_path = 'output_chatgpt_onlyalpha_big_temp.xlsx'
+file_path = 'output_gpt3_5_XY_renamed.xlsx'
 # sheet_name = 'Sheet1'
 
 # Read the Excel file into a DataFrame

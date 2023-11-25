@@ -10,7 +10,7 @@ import re
 
 import openai 
 
-dataframe1 = pd.read_excel('output_palm_onlyalpha_big_temp2.xlsx')
+dataframe1 = pd.read_excel('output_gpt4_X_YR_temp.xlsx')
 
 
 
@@ -65,5 +65,6 @@ for ind in dataframe1.index:
     
 
 
-dataframe1.to_excel("output_palm_onlyalpha_big_temp2_renamed.xlsx")
+dataframe1.to_excel("output_gpt4_X_YR_renamed.xlsx")
 #print("yash")
+

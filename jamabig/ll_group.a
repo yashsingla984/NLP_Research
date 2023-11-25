@@ -1,0 +1,16 @@
+IsLLamaCorrect         No  Yes  Percentage_Yes
+ModifiedMedicalField                          
+Cardiology             54   16       22.857143
+Dermatology           172   57       24.890830
+Diagnostic             51   21       29.166667
+Endoscopy              30    5       14.285714
+JAMA                  117   40       25.477707
+Neurology              30   12       28.571429
+Oncology               62   15       19.480519
+Ophthalmology         286   83       22.493225
+Pathology              82   30       26.785714
+Pediactrics             0    1      100.000000
+Pediatrics             45    8       15.094340
+Psychiatry              4    1       20.000000
+Radiology              66   19       22.352941
+Surgery                98   24       19.672131

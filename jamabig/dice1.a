@@ -1,2 +1,47 @@
-Count of "Yes": 622
-Count of "No": 730
+{
+  "id": "chatcmpl-8NaDNnY9DXeSIvf2rduJRTeE8tUN5",
+  "object": "chat.completion",
+  "created": 1700631445,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Summary:\nThe patient is a 50-year-old man with end-stage kidney disease undergoing hemodialysis treatment. He was initially admitted to the hospital for calciphylaxis and foot cellulitis treatment. His medication includes sevelamer, hydrocodone-acetaminophen, hydromorphone as needed and chewable lanthanum for high blood phosphate levels. On the 7th day of his hospital stay, the patient began having intermittent apneic episodes with low oxygen saturation, responsive only to deep painful stimuli. A chest X-ray revealed four coin-shaped opacities in his stomach. Oxygen and naloxone infusion were administered leading to improvements in his oxygen levels and mental status. Despite the strange findings in his x-ray, the patient reported not ingesting any foreign bodies."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 320,
+    "completion_tokens": 160,
+    "total_tokens": 480
+  }
+}
+Next response
+{
+  "id": "chatcmpl-8NaDaDEoApCZBo9Aq7mlI58acKl8m",
+  "object": "chat.completion",
+  "created": 1700631458,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "B"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 249,
+    "completion_tokens": 1,
+    "total_tokens": 250
+  }
+}
+B
+D
+cellvalue empty
+0

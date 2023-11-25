@@ -15,7 +15,7 @@ max_retries = 3
 import google.generativeai as palm
 
 # Set your API key
-palm.configure(api_key="AIzaSyDdw-SShnw5zyGh7F51GTqM4qP8nCD2Gps")
+palm.configure(api_key="AIzaSyAILWnvzeDIDPrOuzMahvRPUG7RTniujv8")
 model_id="models/text-bison-001"
 
 
@@ -32,9 +32,10 @@ dataframe2['ModifiedMedicalField']=""
 
 
 for ind in dataframe1.index:
-    if ind==1526:
+    if ind==5:
         break
     
+    time.sleep(10)
     title=dataframe1['Title'][ind]
     caseart=dataframe1['Case'][ind]
     question=dataframe1['MCQ_question'][ind]
@@ -47,8 +48,9 @@ for ind in dataframe1.index:
 
     #prompt message for chatgpt
     #message="Title: "+title+" Case is: "+caseart+question+" "+"A: "+option1+" ,"+" "+"B: "+option2+" ,"+" "+"C: "+option3+" ,"+" "+"D: "+option4+". "+"Please choose an answer option and explain why that might be correct while the rest are incorrect. The output format is: Answer: (fill in the letter of the answer) Explanation:"
-    message="Title: "+title+" Case is: "+caseart+question+" "+"A: "+option1+" ,"+" "+"B: "+option2+" ,"+" "+"C: "+option3+" ,"+" "+"D: "+option4+". "+"Please choose an answer option. The output format is:  (fill in the letter of the answer)"
+    #message="Title: "+title+" Case is: "+caseart+question+" "+"A: "+option1+" ,"+" "+"B: "+option2+" ,"+" "+"C: "+option3+" ,"+" "+"D: "+option4+". "+"Please choose an answer option. The output format is:  (fill in the letter of the answer)"
     #print(message)
+    message="Title: "+title+" Case is: "+caseart+". "+question+" "+"A: "+option1+" ,"+" "+"B: "+option2+" ,"+" "+"C: "+option3+" ,"+" "+"D: "+option4+". "+"Please choose an answer option. The output format is:  (fill in the letter of the answer)"
     if len(message)>=4050:
         print("Word exceed", ind)
         continue
@@ -58,6 +60,7 @@ for ind in dataframe1.index:
         try:
             completion=palm.generate_text(model=model_id,prompt=prompt,temperature=0.99,max_output_tokens=800,)
             answer=completion.result
+            print(completion)
             if pd.isna(answer):
                 print("Answer not available")
                 continue
@@ -82,7 +85,6 @@ for ind in dataframe1.index:
                 dataframe2.at[ind,'ModifiedMedicalField']=dataframe1['Superclass'][ind]
                 
             print(ind)
-            
             break
         
         except Exception as e:
@@ -97,7 +99,7 @@ for ind in dataframe1.index:
 
 
 #print(dataframe2.iloc[0])
-dataframe2.to_excel("output_palm_onlyalpha_big_temp2.xlsx")
+dataframe2.to_excel("output_palm_temp_onlyalpha_big_temp2.xlsx")
 # print(dataframe2.iloc[0])
 print("yassssh")
 #print(messages)
