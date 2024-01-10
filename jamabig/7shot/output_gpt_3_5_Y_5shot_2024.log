@@ -1,0 +1,3045 @@
+nohup: ignoring input
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/lib/python3.8/site-packages/mpmath/ctx_mp_python.py:892: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if other is 0:
+/data/apps/linux-centos8-cascadelake/gcc-9.3.0/anaconda3-2020.07-i7qavhiohb2uwqs4eqjeefzx3kp5jqdu/lib/python3.8/site-packages/mpmath/ctx_mp_python.py:986: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if other is 0:
+model_name: gpt-3.5-turbo
+prompt_type: Y
+yash
+0it [00:00, ?it/s]B)
+Extracted answer: B
+1it [00:00,  1.23it/s]C) Emphysematous thyroiditis
+Extracted answer: C
+2it [00:01,  1.38it/s]A) Herpes simplex virus
+Extracted answer: A
+3it [00:02,  1.25it/s]A) Perform a bone marrow biopsy
+Extracted answer: A
+4it [00:03,  1.17it/s]C) Perineural spread of cutaneous malignancy
+Extracted answer: C
+5it [00:03,  1.43it/s]D) Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions
+Extracted answer: D
+6it [00:04,  1.27it/s]B) Kikuchi-Fujimoto disease
+Extracted answer: B
+7it [00:05,  1.51it/s]B)
+Extracted answer: B
+8it [00:05,  1.61it/s]A) Arteriovenous malformation of the scalp
+Extracted answer: A
+9it [00:06,  1.36it/s]A) Chromoblastomycosis
+Extracted answer: A
+10it [00:07,  1.26it/s]C) Acute coalescent mastoiditis with sigmoid sinus thrombosis
+Extracted answer: C
+11it [00:08,  1.38it/s]A) Leishmaniasis
+Extracted answer: A
+12it [00:08,  1.55it/s]D) Oral involvement of mycosis fungoides
+Extracted answer: D
+13it [00:09,  1.71it/s]C) Serological testing for onchocerciasis
+Extracted answer: C
+14it [00:10,  1.41it/s]C) Observe with no additional testing or intervention
+Extracted answer: C
+15it [00:10,  1.29it/s]A) Pretibial myxedema
+Extracted answer: A
+16it [00:11,  1.36it/s]B) Familial cerebral cavernous malformations
+Extracted answer: B
+17it [00:12,  1.50it/s]C) Plaque radiotherapy
+Extracted answer: C
+18it [00:12,  1.36it/s]C) Epidermolysis bullosa pruriginosa (EBP)
+Extracted answer: C
+19it [00:14,  1.21it/s]C) Rule out brain tumor
+Extracted answer: C
+20it [00:14,  1.40it/s]B) Rhabdomyoma
+Extracted answer: B
+21it [00:15,  1.41it/s]A) Perform a skin biopsy at the mastectomy incision site
+Extracted answer: A
+22it [00:15,  1.39it/s]A) Disseminated fusariosis
+Extracted answer: A
+23it [00:16,  1.27it/s]B) Kaposi sarcoma
+Extracted answer: B
+24it [00:17,  1.22it/s]C) Bullous pilomatricoma
+Extracted answer: C
+25it [00:18,  1.46it/s]B) Order brain magnetic resonance imaging to look for associated central nervous system tumors
+Extracted answer: B
+26it [00:18,  1.42it/s]B) Check an antisynthetase antibody panel
+Extracted answer: B
+27it [00:19,  1.44it/s]D) Schwannoma
+Extracted answer: D
+28it [00:20,  1.32it/s]C) Order anti-GQ1b antibody and start intravenous immune globulin
+Extracted answer: C
+29it [00:21,  1.17it/s]D) Merkel cell carcinoma
+Extracted answer: D
+30it [00:21,  1.41it/s]A) Vitreous tap and inject intravitreal foscarnet, vancomycin, and ceftazidime
+Extracted answer: A
+31it [00:22,  1.24it/s]C) Orthopedic surgery evaluation for shoulder replacement surgery
+Extracted answer: C
+32it [00:23,  1.44it/s]C) Percutaneous coronary intervention
+Extracted answer: C
+33it [00:23,  1.69it/s]B) VEXAS syndrome
+Extracted answer: B
+34it [00:24,  1.47it/s]A) Pseudoxanthoma elasticum
+Extracted answer: A
+35it [00:25,  1.61it/s]A) Check stool for Echinococcus granulosus eggs
+Extracted answer: A
+36it [00:25,  1.53it/s]C) Send skin biopsy specimen to the US National Hansen's Disease Program for PCR testing
+Extracted answer: C
+37it [00:26,  1.61it/s]D) Order 24-hour urine testing for monoclonal proteins
+Extracted answer: D
+38it [00:26,  1.71it/s]D) Magnetic resonance imaging with magnetic resonance angiography or digital subtraction angiography
+Extracted answer: D
+39it [00:27,  1.54it/s]D) Schedule combined phacoemulsification-vitrectomy surgery
+Extracted answer: D
+40it [00:28,  1.61it/s]B) Pars plana vitrectomy for vitreous biopsy with or without chorioretinal biopsy for flow cytometry to assess for leukemic cells
+Extracted answer: B
+41it [00:30,  1.22s/it]A) Schwannoma
+Extracted answer: A
+42it [00:31,  1.11s/it]C) Invasive fungal sinusitis (mucormycosis) with perineural spread
+Extracted answer: C
+43it [00:32,  1.03s/it]D) Localized amyloidosis (amyloidoma)
+Extracted answer: D
+44it [00:33,  1.13it/s]B) Blastic plasmacytoid dendritic cell neoplasm
+Extracted answer: B
+45it [00:34,  1.06it/s]A) Cutaneous involvement of multiple myeloma
+Extracted answer: A
+46it [00:35,  1.06it/s]C) Fibromuscular dysplasia
+Extracted answer: C
+47it [00:36,  1.06it/s]B) Obtain skin biopsy with T-cell clonality studies
+Extracted answer: B
+48it [00:40,  2.06s/it]C) Provide reassurance and prescribe oral care
+Extracted answer: C
+49it [00:41,  1.56s/it]B) Dermoid cyst
+Extracted answer: B
+50it [00:41,  1.20s/it]C) Obtain a sample of the hypopyon through anterior chamber paracentesis and inject intravitreal antibiotics
+Extracted answer: C
+51it [00:42,  1.18s/it]C) Order genetic workup
+Extracted answer: C
+52it [00:42,  1.07it/s]C) Leukocytoclastic vasculitis
+Extracted answer: C
+53it [00:43,  1.05it/s]B) Genetic testing
+Extracted answer: B
+54it [00:44,  1.30it/s]B) Angioleiomyoma
+Extracted answer: B
+55it [00:45,  1.24it/s]A) Patch-stage Kaposi sarcoma
+Extracted answer: A
+56it [00:46,  1.18it/s]D) Check amiodarone plasma level
+Extracted answer: D
+57it [00:47,  1.15it/s]A) Implant a defibrillator
+Extracted answer: A
+58it [00:47,  1.35it/s]C) Perform an emergency explorative laparotomy
+Extracted answer: C
+59it [00:48,  1.21it/s](B)
+60it [00:49,  1.22it/s]B) Multivirus-specific cytotoxic T lymphocytes (CTLs)
+Extracted answer: B
+61it [00:49,  1.32it/s]C) High-grade carcinoma of the breast with occult primary
+Extracted answer: C
+62it [00:50,  1.35it/s]C)
+Extracted answer: C
+63it [00:51,  1.32it/s]A) Soft tissue giant cell tumor
+Extracted answer: A
+64it [00:52,  1.24it/s]C) Median raphe cyst
+Extracted answer: C
+65it [00:52,  1.51it/s]B) Perform a skin biopsy for histopathology and direct immunofluorescence
+Extracted answer: B
+66it [00:53,  1.27it/s]B) Commence high-dose corticosteroids
+Extracted answer: B
+67it [00:54,  1.39it/s]C) Start corticosteroids
+Extracted answer: C
+68it [00:55,  1.20it/s]C) Observation
+Extracted answer: C
+69it [00:55,  1.46it/s]C) Medication hypersensitivity reaction
+Extracted answer: C
+70it [00:56,  1.35it/s]B) Glomus tumor
+Extracted answer: B
+71it [00:56,  1.60it/s]C) Cholesteatoma
+Extracted answer: C
+72it [00:57,  1.84it/s]B) Hydroxyurea-induced squamous dysplasia
+Extracted answer: B
+73it [00:58,  1.46it/s]D) Juvenile hyaline fibromatosis
+Extracted answer: D
+74it [00:59,  1.31it/s]B) Start intravenous amiodarone
+Extracted answer: B
+75it [01:00,  1.34it/s]D) 100% Oxygen, intravenous fluid, and Trendelenburg position
+Extracted answer: D
+76it [01:00,  1.45it/s]C) Obtain aqueous fluid for fungal polymerase chain reaction
+Extracted answer: C
+77it [01:01,  1.29it/s]C) Angiosarcoma
+Extracted answer: C
+78it [01:02,  1.24it/s]C) IgG4-related disease
+Extracted answer: C
+79it [01:03,  1.19it/s]B) Immunotherapy-related inflammation
+Extracted answer: B
+80it [01:04,  1.16it/s]D) Angiomatoid fibrous histiocytoma
+Extracted answer: D
+81it [01:04,  1.36it/s]C) Eosinophilic, polymorphic, and pruritic eruption associated with radiotherapy (EPPER)
+Extracted answer: C
+82it [01:05,  1.39it/s]A) Discharge home after implantation of an implantable cardioverter-defibrillator
+Extracted answer: A
+83it [01:06,  1.34it/s]C) Rickettsial infection
+Extracted answer: C
+84it [01:06,  1.56it/s]A) Obtain serologic test results for Treponema pallidum
+Extracted answer: A
+85it [01:07,  1.29it/s]C) Positron emission tomography scan
+Extracted answer: C
+86it [01:08,  1.52it/s]A) Perform fine-needle aspiration biopsy with cytology and cytogenetics
+Extracted answer: A
+87it [01:09,  1.26it/s]C) Inflammatory breast cancer
+Extracted answer: C
+88it [01:09,  1.34it/s]A) Madelung disease
+Extracted answer: A
+89it [01:10,  1.27it/s]A) Inflammatory linear verrucous epidermal nevus
+Extracted answer: A
+90it [01:11,  1.14it/s]B) Metastatic Crohn disease
+Extracted answer: B
+91it [01:12,  1.35it/s]B) Pacemaker implantation
+Extracted answer: B
+92it [01:13,  1.27it/s]C) Paraneoplastic myositis
+Extracted answer: C
+93it [01:13,  1.46it/s]A) Advise use of a wedge pillow to avoid sleeping in the supine position.
+Extracted answer: A
+94it [01:14,  1.53it/s]C) Add netarsudil eye drops every night at bedtime in the left eye
+Extracted answer: C
+95it [01:15,  1.24it/s]D) Perform an emergency orbital exploration with lesion biopsy
+Extracted answer: D
+96it [01:16,  1.16it/s]A) Rosai-Dorfman disease
+Extracted answer: A
+97it [01:17,  1.12it/s]C) Secondary syphilis
+Extracted answer: C
+98it [01:18,  1.06s/it]C) Optical coherence tomography
+Extracted answer: C
+99it [01:19,  1.01it/s]A) Short anagen syndrome
+Extracted answer: A
+100it [01:19,  1.26it/s]C) Eruptive pruritic papular porokeratosis
+Extracted answer: C
+101it [01:20,  1.39it/s]B) Start high-intensity statin therapy and aspirin, 81 mg, daily
+Extracted answer: B
+102it [01:21,  1.20it/s]C) Niemann-Pick disease type C
+Extracted answer: C
+103it [01:22,  1.17it/s]C) Inject a local anesthetic into the area of maximal tenderness
+Extracted answer: C
+104it [01:22,  1.36it/s]B) Obtain Mycoplasma pneumoniae IgM and IgG levels
+Extracted answer: B
+105it [01:23,  1.45it/s]C) Await peritoneal dialysis fluid culture results before starting intraperitoneal antibiotics
+Extracted answer: C
+106it [01:24,  1.39it/s]D) Delayed iatrogenic bilateral vocal fold paralysis
+Extracted answer: D
+107it [01:25,  1.24it/s]A) Observation
+Extracted answer: A
+108it [01:25,  1.53it/s]B) Lymphomatoid granulomatosis
+Extracted answer: B
+109it [01:26,  1.36it/s]A) Verrucous xanthoma
+Extracted answer: A
+110it [01:26,  1.53it/s]D) Cutaneous leishmaniasis
+Extracted answer: D
+111it [01:27,  1.69it/s]D) Reorder troponin T measurement in 3 hours
+Extracted answer: D
+112it [01:28,  1.38it/s]C)
+Extracted answer: C
+113it [01:28,  1.49it/s]B) Initiate an alternative systemic therapy (ie, an immunomodulatory agent)
+Extracted answer: B
+114it [01:30,  1.26it/s]B) Neoadjuvant cemiplimab immunotherapy (anti–PD-L1 antibody), globe sparing orbitotomy, and surgical excision of the mass
+Extracted answer: B
+115it [01:30,  1.20it/s]C) Perform pars plana vitrectomy and excisional biopsy of the membrane
+Extracted answer: C
+116it [01:32,  1.06it/s]B) Immunotherapy-related gastritis
+Extracted answer: B
+117it [01:32,  1.26it/s]A) Cholesteatoma.
+Extracted answer: A
+118it [01:33,  1.21it/s]B) Foregut duplication cyst
+Extracted answer: B
+119it [01:33,  1.44it/s]B) Epidermoid cyst
+Extracted answer: B
+120it [01:34,  1.62it/s]B) Laryngeal sarcoidosis
+Extracted answer: B
+121it [01:34,  1.79it/s]B) Acquired perforating dermatosis
+Extracted answer: B
+122it [01:35,  1.71it/s]C) Multifocal lymphangioendotheliomatosis with thrombocytopenia
+Extracted answer: C
+123it [01:36,  1.33it/s]B) Holmes Adie pupil
+Extracted answer: B
+124it [01:37,  1.49it/s]D) Administer oral acyclovir
+Extracted answer: D
+125it [01:37,  1.33it/s]C) Request genetic testing and monitor
+Extracted answer: C
+126it [01:38,  1.53it/s]D) Obtain fundus autofluorescence
+Extracted answer: D
+127it [01:39,  1.34it/s]B) Pars plana vitrectomy with vitreous biopsy
+Extracted answer: B
+128it [01:40,  1.21it/s]C) Biopsy of the conjunctival lesion including a fresh specimen for flow cytometry
+Extracted answer: C
+129it [01:41,  1.21it/s]D) Solitary fibrous tumor
+Extracted answer: D
+130it [01:41,  1.30it/s]A) Facial nerve schwannoma
+Extracted answer: A
+131it [01:42,  1.49it/s]C) Coccidioidomycosis
+Extracted answer: C
+132it [01:42,  1.49it/s]A) Perform urgent DC shock
+Extracted answer: A
+133it [01:43,  1.28it/s]D) Eosinophilic fasciitis
+Extracted answer: D
+134it [01:44,  1.19it/s]D) Treat with oral terbinafine
+Extracted answer: D
+135it [01:45,  1.26it/s]A) Serum thyroid laboratory testing
+Extracted answer: A
+136it [01:46,  1.19it/s]C) Observation with close follow-up
+Extracted answer: C
+137it [01:47,  1.17it/s]B) Interventional radiology embolization and debulking
+Extracted answer: B
+138it [01:48,  1.11it/s]A) Intravascular anaplastic large cell lymphoma
+Extracted answer: A
+139it [01:49,  1.07it/s]B) Granulomatosis with polyangiitis
+Extracted answer: B
+140it [01:50,  1.17it/s]D) Recurrent respiratory papillomatosis
+Extracted answer: D
+141it [01:51,  1.15it/s]C) Squamous cell cancer
+Extracted answer: C
+142it [01:51,  1.39it/s]B) Juvenile hyaline fibromatosis
+Extracted answer: B
+143it [01:52,  1.25it/s]A) Sarcoidosis
+Extracted answer: A
+144it [01:53,  1.22it/s]D) Myasthenia gravis
+Extracted answer: D
+145it [01:53,  1.45it/s]C) Perform an electrooculogram and molecular genetic testing
+Extracted answer: C
+146it [01:54,  1.43it/s]B) Genetic testing
+Extracted answer: B
+147it [01:55,  1.45it/s]A) Eosinophilic sialodochitis
+Extracted answer: A
+148it [01:56,  1.29it/s]D) Macrocystic lymphatic malformation
+Extracted answer: D
+149it [01:57,  1.01it/s]B) Acquired elastotic hemangioma
+Extracted answer: B
+150it [01:58,  1.03it/s]C) Implantable cardioverter defibrillator
+Extracted answer: C
+151it [01:58,  1.22it/s]A) Check blood lead concentration
+Extracted answer: A
+152it [02:00,  1.01s/it]B) Serum vascular endothelial growth factor
+Extracted answer: B
+153it [02:01,  1.02it/s]C) Biopsy the EOMs
+Extracted answer: C
+154it [02:02,  1.05it/s]C) Refer to the health department for 4-drug antituberculous treatment
+Extracted answer: C
+155it [02:03,  1.09it/s]C) Perform YAG capsulotomy
+Extracted answer: C
+156it [02:03,  1.29it/s]B) Obtain information about the immunotherapy protocol initiated for her sarcoma
+Extracted answer: B
+157it [02:03,  1.43it/s]C) Non-Hodgkin lymphoma
+Extracted answer: C
+158it [02:04,  1.30it/s]D) Primary cutaneous embryonal rhabdomyosarcoma
+Extracted answer: D
+159it [02:05,  1.21it/s]B) Epstein-Barr virus–positive mucocutaneous ulcers
+Extracted answer: B
+160it [02:06,  1.11it/s]C) Pituitary apoplexy
+Extracted answer: C
+161it [02:07,  1.10it/s]D) Order testing for hepatitis delta virus (HDV) IgM and IgG antibodies and, if positive, test for HDV RNA
+Extracted answer: D
+162it [02:08,  1.15it/s]B) Perform a biopsy of the left ear
+Extracted answer: B
+163it [02:09,  1.13it/s]D) Obtain orbital imaging with intravenous contrast
+Extracted answer: D
+164it [02:10,  1.12it/s]A) Check thyrotropin and thyroid receptor autoantibody levels and order orbital imaging
+Extracted answer: A
+165it [02:11,  1.28it/s]C) Order anterior segment optical coherence tomography
+Extracted answer: C
+166it [02:11,  1.20it/s]C) Obtain corneal herpes simplex viral cultures
+Extracted answer: C
+167it [02:12,  1.14it/s]C) Labyrinthitis
+Extracted answer: C
+168it [02:13,  1.14it/s]B) Parathyroid cyst
+Extracted answer: B
+169it [02:14,  1.24it/s]A) Primary parotid gland cancer
+Extracted answer: A
+170it [02:15,  1.32it/s]C) Lipodystrophia centrifugalis abdominalis infantilis
+Extracted answer: C
+171it [02:16,  1.20it/s]C) Metastatic carcinoma
+Extracted answer: C
+172it [02:16,  1.44it/s]B) Mitochondrial encephalopathy, lactic acidosis, and strokelike episodes
+Extracted answer: B
+173it [02:17,  1.52it/s]B) Perform a bone marrow biopsy with flow cytometry and cytogenetics
+Extracted answer: B
+174it [02:18,  1.27it/s]C) Prescribe a nonsedating antihistamine at a standard dose and increase to high-dose antihistamine if symptoms persist
+Extracted answer: C
+175it [02:18,  1.29it/s]A) Reactive lymphoid hyperplasia
+Extracted answer: A
+176it [02:19,  1.23it/s]D) Transscleral cyclophotocoagulation and removal of the mass and Ahmed valve
+Extracted answer: D
+177it [02:20,  1.08it/s]B) Diagnose and treat idiopathic intracranial hypertension
+Extracted answer: B
+178it [02:21,  1.05it/s]C) Revision ptosis repair
+Extracted answer: C
+179it [02:22,  1.29it/s]((A)
+180it [02:22,  1.52it/s]D) Spinal cord infarct: underlying cause workup, supportive care
+Extracted answer: D
+181it [02:23,  1.29it/s]C) Trigeminal schwannoma
+Extracted answer: C
+182it [02:24,  1.22it/s]B) Aquagenic syringeal acrokeratoderma
+Extracted answer: B
+183it [02:25,  1.12it/s]C) COVID-19−associated acroischemia (thrombotic vasculopathy)
+Extracted answer: C
+184it [02:26,  1.24it/s]A) Obtain a chest computed tomography (CT) scan and myositis-specific autoantibody panel
+Extracted answer: A
+185it [02:27,  1.31it/s]B) Further surgical debridement
+Extracted answer: B
+186it [02:27,  1.50it/s]A) Check antineutrophil cytoplasmic antibody (ANCA) titers
+Extracted answer: A
+187it [02:28,  1.25it/s]D) Perform further thyroid function tests and thyroid imaging
+Extracted answer: D
+188it [02:29,  1.44it/s]C) Genetic testing
+Extracted answer: C
+189it [02:29,  1.50it/s]B) Perform an LPI in the right eye
+Extracted answer: B
+190it [02:30,  1.31it/s]D) Treat the patient with systemic steroids for presumed VKH syndrome
+Extracted answer: D
+191it [02:31,  1.18it/s]C) Sjogren disease
+Extracted answer: C
+192it [02:32,  1.16it/s]C) Lymphoma
+Extracted answer: C
+193it [02:33,  1.14it/s]B) Multiple minute digitate hyperkeratosis
+Extracted answer: B
+194it [02:34,  1.21it/s]C) Palisaded neutrophilic and granulomatous dermatitis
+Extracted answer: C
+195it [02:35,  1.11it/s]B) Consult cardiovascular surgery to discuss mitral valve surgery
+Extracted answer: B
+196it [02:36,  1.17it/s]B) Fluorescein angiography
+Extracted answer: B
+197it [02:36,  1.27it/s]A) Obtain HIV and syphilis serology results
+Extracted answer: A
+198it [02:37,  1.41it/s]A) Start topical and systemic steroids
+Extracted answer: A
+199it [02:37,  1.63it/s]C) Chronic sialadenitis with abscess
+Extracted answer: C
+200it [02:37,  1.80it/s]A) Intravascular papillary endothelial hyperplasia
+Extracted answer: A
+201it [02:38,  1.46it/s]B) Electrophysiology study and catheter ablation
+Extracted answer: B
+202it [02:39,  1.64it/s]B) Reassurance and treatment with cool compresses and artificial tears
+Extracted answer: B
+203it [02:40,  1.38it/s]D) Perform a comprehensive systemic workup
+Extracted answer: D
+204it [02:41,  1.28it/s]A) Sequencing of myosin heavy chain gene
+Extracted answer: A
+205it [02:42,  1.18it/s]C) Synovitis, acne, pustulosis, hyperostosis, and osteitis syndrome
+Extracted answer: C
+206it [02:43,  1.07it/s]B) Obtain aqueous sample for cultures and polymerase chain reaction
+Extracted answer: B
+207it [02:44,  1.04it/s]C) Reinitiate RIPE therapy
+Extracted answer: C
+208it [02:44,  1.26it/s]B) Pinpoint papular light eruption
+Extracted answer: B
+209it [02:45,  1.20it/s]A) Hair follicle nevus
+Extracted answer: A
+210it [02:46,  1.16it/s]C) The isolated reduced Dlco likely reflects an alveolar-capillary gas transfer abnormality
+Extracted answer: C
+211it [02:47,  1.26it/s]B) Neuroschistosomiasis
+Extracted answer: B
+212it [02:48,  1.32it/s]B) Perform vitreal sampling for cytology and flow cytometry
+Extracted answer: B
+213it [02:49,  1.19it/s]D) Perform right axillary ultrasound now, with intent to biopsy enlarged lymph nodes
+Extracted answer: D
+214it [02:50,  1.11it/s]D) Stop voriconazole
+Extracted answer: D
+215it [02:51,  1.09it/s]C) Magnetic resonance imaging of the brain and orbits
+Extracted answer: C
+216it [02:51,  1.14it/s]C) Perform lumbar puncture to assess cerebrospinal fluid contents
+Extracted answer: C
+217it [02:52,  1.21it/s]B) Perform excisional biopsy of the lesion to rule out malignancy
+Extracted answer: B
+218it [02:53,  1.13it/s]B) Transcranial resection of the orbital, canalicular, and prechiasmal optic nerve
+Extracted answer: B
+219it [02:54,  1.23it/s]C) Linear or annular lupus erythematosus panniculitis of the scalp
+Extracted answer: C
+220it [02:55,  1.10it/s]B) Thymoma-associated multiorgan autoimmunity
+Extracted answer: B
+221it [02:56,  1.07it/s]A) Catheterization on the left side of the heart and coronary angiogram
+Extracted answer: A
+222it [02:57,  1.03it/s]C) Scleromyxoedema
+Extracted answer: C
+223it [02:58,  1.03it/s]D) Order a urine nucleic acid amplification test for Chlamydia trachomatis
+Extracted answer: D
+224it [02:59,  1.06it/s]B) Prescribe azithromycin
+Extracted answer: B
+225it [02:59,  1.24it/s]B) Order urinalysis and urinary β2-microglobulin test
+Extracted answer: B
+226it [03:00,  1.35it/s]C) Obtain magnetic resonance imaging of the brain with contrast
+Extracted answer: C
+227it [03:01,  1.20it/s]C)
+Extracted answer: C
+228it [03:02,  1.18it/s]D)
+Extracted answer: D
+229it [03:02,  1.40it/s]B) Treatment with topical and oral antibiotics
+Extracted answer: B
+230it [03:03,  1.62it/s]B) Calciphylaxis
+Extracted answer: B
+231it [03:03,  1.77it/s]A) Kaposi sarcoma
+Extracted answer: A
+232it [03:03,  2.01it/s]C) Phaeohyphomycosis
+Extracted answer: C
+233it [03:04,  1.94it/s]B) Perform an urgent surgical resection of the intracardiac mass
+Extracted answer: B
+234it [03:05,  1.48it/s]B) Measure prostate-specific antigen level
+Extracted answer: B
+235it [03:06,  1.34it/s]A) Results are consistent with axonal polyneuropathy
+Extracted answer: A
+236it [03:08,  1.06s/it]B) Discontinue minocycline
+Extracted answer: B
+237it [03:08,  1.14it/s]C) Voriconazole
+Extracted answer: C
+238it [03:09,  1.25it/s]C) Observation
+Extracted answer: C
+239it [03:09,  1.36it/s]C) Genetic testing to rule out a mitochondrial disease
+Extracted answer: C
+240it [03:10,  1.25it/s]C) Follow-up without further intervention
+Extracted answer: C
+241it [03:11,  1.19it/s]C) Angiosarcoma
+Extracted answer: C
+242it [03:12,  1.17it/s]C) Parathyroid cyst
+Extracted answer: C
+243it [03:13,  1.26it/s]C) Growing teratoma syndrome
+Extracted answer: C
+244it [03:14,  1.22it/s]C) Extramedullary myeloid sarcoma of the larynx
+Extracted answer: C
+245it [03:14,  1.37it/s]B) Intravascular involvement by NK/T-cell lymphoma
+Extracted answer: B
+246it [03:15,  1.39it/s]This question is missing the answer choices. Could you please provide the answer choices?
+247it [03:16,  1.22it/s]C)
+Extracted answer: C
+248it [03:17,  1.33it/s]D) Check antiphospholipid antibody levels
+Extracted answer: D
+249it [03:17,  1.38it/s]C) Magnetic resonance imaging of the orbits with contrast
+Extracted answer: C
+250it [03:18,  1.51it/s]D) Continue acetazolamide and repeated Humphrey visual fields test and optical coherence tomography of the retinal nerve fiber layer in 3 months
+Extracted answer: D
+251it [03:18,  1.46it/s]C) Send to the emergency department for admission and initiation of high-dose intravenous methylprednisolone sodium succinate therapy
+Extracted answer: C
+252it [03:19,  1.29it/s]C) Acute tubular necrosis secondary to kidney melanoma metastasis
+Extracted answer: C
+253it [03:20,  1.18it/s]D) EBV-positive mucocutaneous ulcer
+Extracted answer: D
+254it [03:21,  1.26it/s]A) Medullary thyroid carcinoma
+Extracted answer: A
+255it [03:22,  1.19it/s]Apologies, but I don't have the answer to this question.
+256it [03:23,  1.31it/s]B) Netherton syndrome
+Extracted answer: B
+257it [03:24,  1.24it/s]A) Administer dobutamine
+Extracted answer: A
+258it [03:24,  1.18it/s]A) Perform vitreous tap and injection of intravitreal antibiotics
+Extracted answer: A
+259it [03:26,  1.09it/s]D) Perform an endothelial keratoplasty (Descemet stripping and endothelial keratoplasty or Descemet membrane endothelial keratoplasty)
+Extracted answer: D
+260it [03:26,  1.12it/s]C) Peripheral blood smear and flow cytometry
+Extracted answer: C
+261it [03:27,  1.07it/s]A) Aleukemic cutaneous myeloid sarcoma
+Extracted answer: A
+262it [03:28,  1.16it/s]C) Sclerosing polycystic adenoma
+Extracted answer: C
+263it [03:29,  1.10it/s]B) Herpes simplex virus infection
+Extracted answer: B
+264it [03:30,  1.31it/s]C) Lupus vulgaris
+Extracted answer: C
+265it [03:30,  1.50it/s]C) Electrophysiology study with or without catheter ablation
+Extracted answer: C
+266it [03:31,  1.31it/s]A) Measure fecal calprotectin level
+Extracted answer: A
+267it [03:32,  1.45it/s]C) Obtain serum anti-Ro and anti-La tests.
+Extracted answer: C
+268it [03:32,  1.58it/s]C) Perform extraocular muscle biopsy
+Extracted answer: C
+269it [03:33,  1.39it/s]D) Recommend a temporal craniotomy with a brain biopsy
+Extracted answer: D
+270it [03:34,  1.23it/s]B) Perform examination under anesthesia
+Extracted answer: B
+271it [03:34,  1.43it/s]A) Sweet syndrome
+Extracted answer: A
+272it [03:35,  1.61it/s]C) Angioneurotic edema
+Extracted answer: C
+273it [03:36,  1.56it/s]D) Spontaneous airway hemorrhage with obstructive hematoma
+Extracted answer: D
+274it [03:37,  1.17it/s]A) Lichen striatus
+Extracted answer: A
+275it [03:38,  1.16it/s]B) Neurocristic hamartoma
+Extracted answer: B
+276it [03:38,  1.37it/s]C) Right heart catheterization for biopsy
+Extracted answer: C
+277it [03:39,  1.36it/s]B) Order antinuclear antibody, antineutrophil cytoplasmic antibody, and complement levels.
+Extracted answer: B
+278it [03:40,  1.14it/s]A) Perform incisional biopsy
+Extracted answer: A
+279it [03:41,  1.11it/s]C) Reassure and address patient’s concerns and follow up in 1 year.
+Extracted answer: C
+280it [03:42,  1.05it/s]B) Order neuroimaging with magnetic resonance imaging of the brain and orbits with and without contrast
+Extracted answer: B
+281it [03:43,  1.08it/s]B) Initiation of anticoagulation
+Extracted answer: B
+282it [03:44,  1.07it/s]C) Second CSF culture
+Extracted answer: C
+283it [03:45,  1.19it/s]D) Observation with follow-up for changes over the next 6 to 12 months
+Extracted answer: D
+284it [03:45,  1.18it/s]C) Erosive pustular dermatosis
+Extracted answer: C
+285it [03:46,  1.24it/s]D) Mayer-Rokitansky-Kuster-Hauser (MRKH) syndrome
+Extracted answer: D
+286it [03:47,  1.12it/s]B) Eosinophilic annular erythema
+Extracted answer: B
+287it [03:48,  1.29it/s]C) Diffuse large B-cell lymphoma
+Extracted answer: C
+288it [03:49,  1.21it/s]D) Implant a dual-chamber permanent pacemaker
+Extracted answer: D
+289it [03:49,  1.36it/s]C) Rett syndrome
+Extracted answer: C
+290it [03:50,  1.28it/s]A) Check levels of serum protein, albumin, prealbumin, and other nutritional laboratory measures
+Extracted answer: A
+291it [03:51,  1.20it/s]B) Administer tissue plasminogen activator
+Extracted answer: B
+292it [03:52,  1.13it/s]D) Refer the child for a biopsy of the lesion
+Extracted answer: D
+293it [03:53,  1.33it/s]D) Perform an anterior orbitotomy with abscess drainage in conjunction with endoscopic sinus surgery.
+Extracted answer: D
+294it [03:53,  1.26it/s]C) Refer the patient for urgent neuroimaging
+Extracted answer: C
+295it [03:54,  1.15it/s]B) Obtain computed tomographic scan of the orbits
+Extracted answer: B
+296it [03:55,  1.12it/s]A) Ectopic parathyroid lipoadenoma
+Extracted answer: A
+297it [03:56,  1.28it/s]C) Ameloblastoma
+Extracted answer: C
+298it [03:56,  1.51it/s]C)
+Extracted answer: C
+299it [03:57,  1.79it/s]C)
+Extracted answer: C
+300it [03:57,  2.09it/s]D) Perform surgical MV replacement
+Extracted answer: D
+301it [03:57,  2.23it/s]D) Lymphoma
+Extracted answer: D
+302it [03:58,  1.69it/s]B) Administer antibiotics with coverage for pneumonia pathogen for 7 to 10 days and a repeated CT scan in 4 weeks
+Extracted answer: B
+303it [03:59,  1.55it/s]A) Retinoblastoma
+Extracted answer: A
+304it [03:59,  1.70it/s]D) Stop ranitidine due to concern for reduced gastrointestinal magnesium absorption.
+Extracted answer: D
+305it [04:00,  1.73it/s]B) Metastatic rectal adenocarcinoma
+Extracted answer: B
+306it [04:01,  1.37it/s]C) Perform treadmill stress testing for evaluation of inherited arrhythmias
+Extracted answer: C
+307it [04:02,  1.51it/s]A) Carbon monoxide poisoning
+Extracted answer: A
+308it [04:02,  1.36it/s]C) Monitor closely with serial examinations and repeated visual field testing
+Extracted answer: C
+309it [04:03,  1.56it/s]A) Chondroid syringoma
+Extracted answer: A
+310it [04:04,  1.38it/s]D) Observe periocular lesions while psychiatric treatment is continued
+Extracted answer: D
+311it [04:05,  1.22it/s]I'm sorry, but I am unable to see the answer options. Can you please provide them?
+312it [04:06,  1.07it/s]B) Eosinophilic dermatosis of hematologic malignancy
+Extracted answer: B
+313it [04:07,  1.01it/s]C) Extract the lesion surgically
+Extracted answer: C
+314it [04:08,  1.17it/s]D) Order measurement of serum ferritin level, serum iron level, and serum total iron-binding capacity
+Extracted answer: D
+315it [04:08,  1.28it/s]B) Capecitabine-induced terminal ileitis
+Extracted answer: B
+316it [04:09,  1.47it/s]B) Start intraocular pressure–lowering medications owing to GCL loss
+Extracted answer: B
+317it [04:09,  1.56it/s]D) Initiate admission, high-dose systemic steroids, and a rheumatology consult
+Extracted answer: D
+318it [04:10,  1.54it/s]B) Ameloblastoma
+Extracted answer: B
+319it [04:11,  1.37it/s]C) Pigmented extramammary Paget disease
+Extracted answer: C
+320it [04:12,  1.24it/s]B) Subcutaneous dirofilariasis
+Extracted answer: B
+321it [04:12,  1.38it/s]B) Granulomatosis with polyangiitis
+Extracted answer: B
+322it [04:13,  1.50it/s]C) Order hemoglobin electrophoresis
+Extracted answer: C
+323it [04:13,  1.70it/s]B) Sarcoidosis
+Extracted answer: B
+324it [04:14,  1.63it/s]B) Plan an urgent examination under anesthesia, ultrasonography, and magnetic resonance imaging (MRI)
+Extracted answer: B
+325it [04:15,  1.47it/s]A)
+Extracted answer: A
+326it [04:15,  1.54it/s]B) Provide intravenous fluids and wound care in a burn unit
+Extracted answer: B
+327it [04:16,  1.60it/s]C) No stenosis or plaque. Because of high negative predictive value, no further testing is necessary.
+Extracted answer: C
+328it [04:17,  1.26it/s]B) Cancer-associated pancreatitis, panniculitis, and polyarthritis syndrome (PPP) syndrome
+Extracted answer: B
+329it [04:18,  1.10it/s]C) Advise urgent plasmapheresis in consultation with oncology
+Extracted answer: C
+330it [04:19,  1.06it/s]C) Tornwaldt cyst
+Extracted answer: C
+331it [04:20,  1.18it/s]B) Photocoagulate lesions with argon laser at slitlamp evaluation
+Extracted answer: B
+332it [04:21,  1.09it/s]B) IgG4-related disease
+Extracted answer: B
+333it [04:22,  1.09it/s]D) Urgently drain pericardial effusion percutaneously
+Extracted answer: D
+334it [04:23,  1.25it/s]B) Erythema gyratum repens–like eruption associated with mycosis fungoides
+Extracted answer: B
+335it [04:23,  1.32it/s]D) Genetic testing
+Extracted answer: D
+336it [04:24,  1.53it/s]C) Persistent trigeminal artery
+Extracted answer: C
+337it [04:25,  1.36it/s]B) Perform magnetic resonance imaging (MRI) and magnetic resonance angiography (MRA) of the brain
+Extracted answer: B
+338it [04:25,  1.40it/s]A) Start treatment with frequent artificial tears 4 times daily and follow up in 6 months
+Extracted answer: A
+339it [04:26,  1.46it/s]D) Drug-induced vasculitis
+Extracted answer: D
+340it [04:27,  1.32it/s]C) Order magnetic resonance imaging of the sacroiliac joint
+Extracted answer: C
+341it [04:28,  1.17it/s]D) Refer to pulmonologist
+Extracted answer: D
+342it [04:28,  1.38it/s]B) Chloroma
+Extracted answer: B
+343it [04:29,  1.47it/s]B) Eosinophilic granulomatosis with polyangiitis (Churg-Strauss syndrome)
+Extracted answer: B
+344it [04:30,  1.32it/s]C) Perform computed tomography angiography of the aorta
+Extracted answer: C
+345it [04:31,  1.20it/s]D) Perform an endothelial keratoplasty
+Extracted answer: D
+346it [04:32,  1.14it/s]C) Magnetic resonance angiography of the brain and neck
+Extracted answer: C
+347it [04:33,  1.08it/s]C) Malignant pheochromocytoma
+Extracted answer: C
+348it [04:34,  1.15it/s]D) Repeated diagnostic vitrectomy with repeated subretinal biopsy in the left eye
+Extracted answer: D
+349it [04:34,  1.21it/s]C) Cutaneous leishmaniasis
+Extracted answer: C
+350it [04:35,  1.16it/s]B) Obtain polymerase chain reaction of aqueous humor for cytomegalovirus (CMV) DNA
+Extracted answer: B
+351it [04:36,  1.04it/s]A) Esthesioneuroblastoma
+Extracted answer: A
+352it [04:37,  1.22it/s]B) Metastatic squamous cell carcinoma
+Extracted answer: B
+353it [04:37,  1.43it/s]A) Diagnose the patient with peripheral artery disease (PAD) and begin medical management
+Extracted answer: A
+354it [04:38,  1.20it/s]D)
+Extracted answer: D
+355it [04:39,  1.44it/s]D) Sarcoidosis
+Extracted answer: D
+356it [04:39,  1.49it/s]C) Initiate venoarterial extracorporeal membrane oxygenation
+Extracted answer: C
+357it [04:40,  1.47it/s]C) Chondroma
+Extracted answer: C
+358it [04:41,  1.51it/s]B) Oral melanoacanthosis (melanoacanthoma)
+Extracted answer: B
+359it [04:41,  1.56it/s]B) Juvenile angiofibroma
+Extracted answer: B
+360it [04:42,  1.36it/s]B) Metastatic carotid body tumors
+Extracted answer: B
+361it [04:43,  1.39it/s]C) Order optical coherence tomography
+Extracted answer: C
+362it [04:44,  1.25it/s]B) Perform lumbar puncture with opening pressure
+Extracted answer: B
+363it [04:44,  1.44it/s]B) Assess serum vitamin B12 and folate levels
+Extracted answer: B
+364it [04:45,  1.50it/s]C) Stop netarsudil in both eyes
+Extracted answer: C
+365it [04:46,  1.65it/s]A)
+Extracted answer: A
+366it [04:46,  1.50it/s]The case description appears to be cut off without providing the options for diagnosis. Could you please provide the options for diagnosis?
+367it [04:47,  1.47it/s]C) Unilesional folliculotropic mycosis fungoides
+Extracted answer: C
+368it [04:48,  1.54it/s]B) Central nervous system lymphoma
+Extracted answer: B
+369it [04:49,  1.38it/s]D)
+Extracted answer: D
+370it [04:49,  1.32it/s]A) Kaposi sarcoma
+Extracted answer: A
+371it [04:50,  1.41it/s]C) Secretory carcinoma
+Extracted answer: C
+372it [04:50,  1.54it/s]C) Complete serum immunoglobulin level tests, DNA molecular analysis, and bone marrow biopsy
+Extracted answer: C
+373it [04:51,  1.59it/s]C) Excisional biopsy
+Extracted answer: C
+374it [04:52,  1.70it/s]A) Administer systemic corticosteroids
+Extracted answer: A
+375it [04:52,  1.80it/s]A) Obtain a full-field electroretinogram
+Extracted answer: A
+376it [04:53,  1.85it/s]A) Surgical iridectomy
+Extracted answer: A
+377it [04:53,  1.57it/s]C) Consult radiation oncology immediately
+Extracted answer: C
+378it [04:54,  1.75it/s]B) Actinic prurigo cheilitis
+Extracted answer: B
+379it [04:54,  1.93it/s]A) Cardiac metastases from pancreatic adenocarcinoma
+Extracted answer: A
+380it [04:55,  1.94it/s]D) Continue medical management
+Extracted answer: D
+381it [04:56,  1.66it/s]C) Order cerebrospinal fluid prion disease panel
+Extracted answer: C
+382it [04:56,  1.70it/s]C) Order systemic laboratory workup
+Extracted answer: C
+383it [04:57,  1.46it/s]C) Retinal detachment repair with vitrectomy and/or scleral buckle
+Extracted answer: C
+384it [04:57,  1.60it/s]C) Mycosis fungoides
+Extracted answer: C
+385it [04:58,  1.55it/s]B) Linear atrophoderma of Moulin
+Extracted answer: B
+386it [04:59,  1.37it/s]C) Rosacea-like angiosarcoma
+Extracted answer: C
+387it [05:00,  1.56it/s]D) Progressive encephalomyelitis with rigidity and myoclonus (PERM)
+Extracted answer: D
+388it [05:01,  1.24it/s]B) Intravascular large B-cell lymphoma
+Extracted answer: B
+389it [05:02,  1.18it/s]D) Perform transesophageal echocardiography
+Extracted answer: D
+390it [05:03,  1.13it/s]A) Provide reassurance, because the patient is no longer taking amiodarone
+Extracted answer: A
+391it [05:03,  1.15it/s]A) Begin intravenous anticoagulation
+Extracted answer: A
+392it [05:04,  1.33it/s]D) Perform biopsy of lesion
+Extracted answer: D
+393it [05:07,  1.34s/it]D) Giant condyloma acuminatum (Buschke-Löwenstein tumor)
+Extracted answer: D
+394it [05:07,  1.11s/it]C) Primary cutaneous aggressive epidermotropic cytotoxic CD8+ T-cell lymphoma
+Extracted answer: C
+395it [05:08,  1.02it/s]B) Angiosarcoma
+Extracted answer: B
+396it [05:08,  1.25it/s]A) Start intravenous unfractionated heparin
+Extracted answer: A
+397it [05:09,  1.17it/s]B) Acromegaly
+Extracted answer: B
+398it [05:10,  1.27it/s]B) Kikuchi-Fujimoto disease
+Extracted answer: B
+399it [05:11,  1.20it/s]C) Discontinue breast cancer treatment
+Extracted answer: C
+400it [05:12,  1.16it/s]B) Obtain an electroretinogram
+Extracted answer: B
+401it [05:13,  1.12it/s]C) Perform orbital debridement
+Extracted answer: C
+402it [05:14,  1.12it/s]B) Amelanotic melanoma
+Extracted answer: B
+403it [05:14,  1.32it/s]B) Primary umbilical endometriosis
+Extracted answer: B
+404it [05:15,  1.23it/s]D) Chronic thromboembolic pulmonary hypertension
+Extracted answer: D
+405it [05:15,  1.40it/s]B) Pericardiocentesis with pericardial drain placement
+Extracted answer: B
+406it [05:17,  1.23it/s]C) IgG4-related related disease
+Extracted answer: C
+407it [05:17,  1.41it/s]A) Glomus tumor
+Extracted answer: A
+408it [05:18,  1.53it/s]C) Rhinoscleroma
+Extracted answer: C
+409it [05:18,  1.72it/s]C) Diffuse large B-cell lymphoma
+Extracted answer: C
+410it [05:18,  1.85it/s]C) Spontaneous pneumomediastinum
+Extracted answer: C
+411it [05:19,  1.72it/s]D) Reassure the patient and observe
+Extracted answer: D
+412it [05:19,  1.88it/s]B) Blood testing for infectious and inflammatory agents
+Extracted answer: B
+413it [05:20,  1.55it/s]C) Obtain a family medical history and pursue genetic testing
+Extracted answer: C
+414it [05:21,  1.69it/s]A) Perform biopsy of the iris lesion
+Extracted answer: A
+415it [05:21,  1.88it/s]B) Perform esophageal high-resolution manometry (HRM)
+Extracted answer: B
+416it [05:22,  1.88it/s]C) Linear IgA dermatosis
+Extracted answer: C
+417it [05:22,  1.71it/s]B) Spindle cell lipoma
+Extracted answer: B
+418it [05:23,  1.46it/s]C) Bullous mastocytosis
+Extracted answer: C
+419it [05:24,  1.34it/s]A) Consider the risk of adverse events and which drugs are approved for use
+Extracted answer: A
+420it [05:25,  1.21it/s]B) Bone marrow–liver–spleen type of large B-cell lymphoma
+Extracted answer: B
+421it [05:26,  1.11it/s]B) Ambulatory cardiac monitoring after electrolyte repletion
+Extracted answer: B
+422it [05:27,  1.06it/s]D) Macrocystic lymphatic malformation
+Extracted answer: D
+423it [05:28,  1.06it/s]D) Spindle cell rhabdomyosarcoma
+Extracted answer: D
+424it [05:29,  1.03it/s]D) Midline anterior neck inclusion cyst
+Extracted answer: D
+425it [05:30,  1.21it/s]D) Lipoma
+Extracted answer: D
+426it [05:30,  1.45it/s]B) Order magnetic resonance imaging of brain and orbits with and without contrast and lumbar puncture
+Extracted answer: B
+427it [05:31,  1.21it/s]D) Administer an intravitreal anti–vascular endothelial growth factor agent followed by panretinal photocoagulation
+Extracted answer: D
+428it [05:33,  1.07it/s]B) Perform a complete excisional biopsy of the lesion
+Extracted answer: B
+429it [05:33,  1.27it/s]C) Start oral antiviral and topical antibiotic therapy
+Extracted answer: C
+430it [05:34,  1.20it/s]D) Refer to a nutritionist for education on gluten-free diet
+Extracted answer: D
+431it [05:35,  1.13it/s]C) Order polymerase chain reaction (PCR) assay for Ascaris
+Extracted answer: C
+432it [05:36,  1.04it/s]C) Discontinue ibuprofen
+Extracted answer: C
+433it [05:37,  1.05it/s]A) Onchocerciasis
+Extracted answer: A
+434it [05:38,  1.05it/s]C) Angiolymphoid hyperplasia with eosinophilia
+Extracted answer: C
+435it [05:39,  1.14it/s]B) Lung abscess
+Extracted answer: B
+436it [05:40,  1.13it/s]C) Cerebrotendinous xanthomatosis
+Extracted answer: C
+437it [05:40,  1.33it/s]D) Genetic testing for noncompaction
+Extracted answer: D
+438it [05:41,  1.23it/s]B) Inflammatory myofibroblastic tumor
+Extracted answer: B
+439it [05:42,  1.16it/s]D) Glial heterotopia
+Extracted answer: D
+440it [05:43,  1.21it/s]D) Postoperative laryngeal paralysis
+Extracted answer: D
+441it [05:43,  1.37it/s]C) Kimura disease
+Extracted answer: C
+442it [05:44,  1.29it/s]C) Repeat the whole-body positron emission tomography scan
+Extracted answer: C
+443it [05:45,  1.45it/s]C) Sweep the superior fornix
+Extracted answer: C
+444it [05:45,  1.48it/s]A) Treat with hot compresses and an antibiotic-steroid ointment
+Extracted answer: A
+445it [05:46,  1.41it/s]D) Order additional coagulation tests (thrombin time, platelet function assay)
+Extracted answer: D
+446it [05:47,  1.47it/s]C) Skip 2 doses of warfarin, reduce weekly dosage by 10%, and perform a POC INR in 2 weeks.
+Extracted answer: C
+447it [05:47,  1.43it/s]D) Stop diltiazem drip and administer intravenous verapamil
+Extracted answer: D
+448it [05:48,  1.54it/s]A) Periumbilical pseudoxanthoma elasticum
+Extracted answer: A
+449it [05:49,  1.31it/s]C) Merkel cell carcinoma
+Extracted answer: C
+450it [05:49,  1.52it/s]C) Chorea-acanthocytosis
+Extracted answer: C
+451it [05:50,  1.34it/s]A) Transthoracic echocardiogram
+Extracted answer: A
+452it [05:51,  1.23it/s]B) PPV plus pathological examination plus genetic test
+Extracted answer: B
+453it [05:52,  1.40it/s]B) Obtain orbital imaging
+Extracted answer: B
+454it [05:53,  1.31it/s]D) Proceed with pars plana vitrectomy and biopsy
+Extracted answer: D
+455it [05:54,  1.19it/s]B) Subungual squamous cell carcinoma
+Extracted answer: B
+456it [05:55,  1.15it/s]D) Test for serum cryoglobulin level
+Extracted answer: D
+457it [05:55,  1.37it/s]D) Sarcoidosis
+Extracted answer: D
+458it [05:55,  1.62it/s]B) Punctate palmoplantar keratoderma
+Extracted answer: B
+459it [05:56,  1.38it/s]D) Acute disseminated encephalomyelitis associated with myelin oligodendrocyte glycoprotein antibody
+Extracted answer: D
+460it [05:57,  1.38it/s]B) Discontinue metoprolol tartrate and repeat the ambulatory ECG
+Extracted answer: B
+461it [05:58,  1.49it/s]B) Branchial cleft cyst
+Extracted answer: B
+462it [05:58,  1.36it/s]D) A pars plana vitrectomy with a chorioretinal biopsy
+Extracted answer: D
+463it [06:00,  1.19it/s]D) Discontinue antibiotics and avoid all medications associated with Stevens-Johnson syndrome
+Extracted answer: D
+464it [06:01,  1.10it/s]C) Obtain an in-depth medical and personal history, including drug history
+Extracted answer: C
+465it [06:02,  1.03it/s]A) Orbital magnetic resonance imaging (MRI) to evaluate for optic nerve invasion and brain MRI to assess for a pineal gland tumor, followed by chemotherapy for the eye
+Extracted answer: A
+466it [06:03,  1.08s/it]C) Nivolumab-induced inflammatory arthritis
+Extracted answer: C
+467it [06:04,  1.04s/it]B) Order serum protein electrophoresis and serum free light chains assay
+Extracted answer: B
+468it [06:05,  1.12it/s]B) Perform a point-of-care (POC) hemoglobin A1c (HbA1c) test via fingerstick to determine the patient’s glycemic status.
+Extracted answer: B
+469it [06:06,  1.05it/s]B) Ichthyosiform mycosis fungoides
+Extracted answer: B
+470it [06:07,  1.03it/s]B) Annular atrophic lichen planus
+Extracted answer: B
+471it [06:07,  1.14it/s]B) Toxic myelopathy
+Extracted answer: B
+472it [06:08,  1.37it/s]B) Right and left heart catheterization
+Extracted answer: B
+473it [06:08,  1.52it/s]A) Perform percutaneous biopsy of the mass
+Extracted answer: A
+474it [06:09,  1.34it/s]D) Stevens-Johnson syndrome
+Extracted answer: D
+475it [06:10,  1.25it/s]D) Chondrosarcoma
+Extracted answer: D
+476it [06:11,  1.43it/s]C) Pemphigus vulgaris
+Extracted answer: C
+477it [06:11,  1.62it/s]C) Eosinophilic sialodochitis
+Extracted answer: C
+478it [06:12,  1.37it/s]D) Bring the patient to the operating room urgently and remove and send the DSAEK graft for microbiological culture and sensitivity
+Extracted answer: D
+479it [06:13,  1.27it/s]A) Human leukocyte antigen (HLA) haplotyping (eg, for HLA-A29)
+Extracted answer: A
+480it [06:14,  1.34it/s]D) Provide patient education and observation
+Extracted answer: D
+481it [06:14,  1.37it/s]C) Magnetic resonance imaging of the orbits
+Extracted answer: C
+482it [06:15,  1.38it/s]D) Myasthenia gravis and myositis syndrome
+Extracted answer: D
+483it [06:16,  1.47it/s]B) Inject intravitreal anti-vascular endothelial growth factor (VEGF) into both eyes
+Extracted answer: B
+484it [06:16,  1.53it/s]C) The patient has both iron and vitamin B12 deficiencies.
+Extracted answer: C
+485it [06:17,  1.30it/s]B) Invasive extramammary Paget disease
+Extracted answer: B
+486it [06:18,  1.41it/s]B) Familial cutaneous collagenoma
+Extracted answer: B
+487it [06:19,  1.29it/s]B) Anetoderma
+Extracted answer: B
+488it [06:19,  1.49it/s]B) Morvan syndrome
+Extracted answer: B
+489it [06:20,  1.36it/s]C) Surgical revascularization
+Extracted answer: C
+490it [06:21,  1.44it/s]C) Ecchordosis physaliphora
+Extracted answer: C
+491it [06:22,  1.28it/s]C) NUT carcinoma
+Extracted answer: C
+492it [06:22,  1.24it/s]B) X-linked deafness 2
+Extracted answer: B
+493it [06:23,  1.18it/s]A) Obtain thyroid function test results or obtain endocrine evaluation results
+Extracted answer: A
+494it [06:24,  1.11it/s]B) Order magnetic resonance imaging of the brain and a medical genetics evaluation
+Extracted answer: B
+495it [06:25,  1.13it/s]A) Diagnostic vitrectomy with cytologic testing
+Extracted answer: A
+496it [06:26,  1.33it/s]C) Intravitreal anti–vascular endothelial growth factor injections and laser panretinal photocoagulation
+Extracted answer: C
+497it [06:27,  1.14it/s]B) Systemic or bilateral intraocular corticosteroid therapy
+Extracted answer: B
+498it [06:28,  1.03it/s]C) Merkel cell carcinoma
+Extracted answer: C
+499it [06:28,  1.27it/s]B) Review the ECG for features of atrial fibrillation
+Extracted answer: B
+500it [06:29,  1.30it/s]B) Assess serum α1-antitrypsin level and genotype
+Extracted answer: B
+501it [06:30,  1.48it/s]C) Cutaneous amyloidosis
+Extracted answer: C
+502it [06:30,  1.68it/s]B) Serpentine supravenous hyperpigmentation
+Extracted answer: B
+503it [06:31,  1.58it/s]B) Diffuse melanosis cutis
+Extracted answer: B
+504it [06:31,  1.80it/s]B) Subcutaneous ICD reprogramming and observation
+Extracted answer: B
+505it [06:32,  1.41it/s]B) Schwannoma with a traumatic ulcerative granuloma with stromal eosinophilialike reaction
+Extracted answer: B
+506it [06:33,  1.42it/s]The correct answer is (A) Tuberculosis of the palate
+507it [06:34,  1.26it/s]A) Perform posterior capsulotomy as part of pars plana vitrectomy
+Extracted answer: A
+508it [06:35,  1.15it/s]A) Begin oral acyclovir sodium
+Extracted answer: A
+509it [06:36,  1.14it/s]C) Continued monitoring
+Extracted answer: C
+510it [06:36,  1.39it/s]C) Magnetic resonance imaging of the brain and orbits
+Extracted answer: C
+511it [06:37,  1.58it/s]B) Primary central nervous system posttransplant lymphoproliferative disorder
+Extracted answer: B
+512it [06:37,  1.44it/s]C) Prescribe oral azithromycin
+Extracted answer: C
+513it [06:38,  1.57it/s]D) Perform pharmacologic testing with apraclonidine to confirm Horner syndrome
+Extracted answer: D
+514it [06:38,  1.69it/s]B) Stop further nontubercular diagnostic testing and continue antitubercular therapy
+Extracted answer: B
+515it [06:39,  1.62it/s]B) Perform diagnostic laparoscopy with peritoneal washings
+Extracted answer: B
+516it [06:40,  1.32it/s]B) Reactive perforating collagenosis
+Extracted answer: B
+517it [06:41,  1.24it/s]C) Malignant acanthosis nigricans
+Extracted answer: C
+518it [06:42,  1.37it/s]B) Cutaneous leukocytoclastic vasculitis
+Extracted answer: B
+519it [06:42,  1.54it/s]D) Revascularize with percutaneous coronary intervention and start medical therapy
+Extracted answer: D
+520it [06:43,  1.33it/s]C) Oral metastasis
+Extracted answer: C
+521it [06:44,  1.25it/s]C) Type 2 herpes simplex virus (HSV-2) pharyngitis
+Extracted answer: C
+522it [06:45,  1.13it/s]D) Aspergillosis
+Extracted answer: D
+523it [06:46,  1.30it/s]C) Inverted papilloma
+Extracted answer: C
+524it [06:46,  1.54it/s]C) Order cranial magnetic resonance imaging
+Extracted answer: C
+525it [06:46,  1.75it/s]B) Complete an excisional biopsy of the lesion
+Extracted answer: B
+526it [06:47,  1.79it/s]A) Photodynamic therapy
+Extracted answer: A
+527it [06:47,  1.96it/s]D) Repeated visual fields with IOP check in 1 month
+Extracted answer: D
+528it [06:48,  1.52it/s]D) Start broad-spectrum antibiotics and observe
+Extracted answer: D
+529it [06:49,  1.35it/s]B) Scleromyxedema
+Extracted answer: B
+530it [06:50,  1.42it/s]C) Disseminated superficial actinic porokeratosis
+Extracted answer: C
+531it [06:51,  1.26it/s]C) Faciobrachial dystonic seizures
+Extracted answer: C
+532it [06:51,  1.45it/s]C) Obtain laboratory workup for uveitis
+Extracted answer: C
+533it [06:52,  1.58it/s]A) Computed tomographic scan of the orbits with contrast
+Extracted answer: A
+534it [06:53,  1.30it/s]B) Incisional biopsy
+Extracted answer: B
+535it [06:53,  1.49it/s]B) Paraneoplastic skin disease
+Extracted answer: B
+536it [06:54,  1.33it/s]C) Burkitt lymphoma
+Extracted answer: C
+537it [06:55,  1.25it/s]D) Administer intravenous thiamine therapy
+Extracted answer: D
+538it [06:56,  1.18it/s]A) Simple ranula
+Extracted answer: A
+539it [06:57,  1.31it/s]B) Cocaine-induced midline destructive lesion
+Extracted answer: B
+540it [06:57,  1.53it/s]B) Obtain joint fluid for bacterial analysis and cultures
+Extracted answer: B
+541it [06:58,  1.51it/s]A) Incisional biopsy of the lesion
+Extracted answer: A
+542it [06:59,  1.36it/s]B) Bullous Sweet syndrome
+Extracted answer: B
+543it [07:00,  1.29it/s]A) Cutaneous angiosarcoma
+Extracted answer: A
+544it [07:00,  1.50it/s]B) Posttransplantation lymphoproliferative disorder
+Extracted answer: B
+545it [07:01,  1.30it/s]D) Pediatric-onset multiple sclerosis
+Extracted answer: D
+546it [07:02,  1.23it/s]C) Initiate antiviral therapy
+Extracted answer: C
+547it [07:03,  1.01s/it]C) Obtain cerebral magnetic resonance venography or computed tomographic venography
+Extracted answer: C
+548it [07:05,  1.06s/it]A) Obtain a family medical history and genetic testing
+Extracted answer: A
+549it [07:05,  1.11it/s]C)
+Extracted answer: C
+550it [07:06,  1.14it/s]B) Obtain herpes simplex virus tissue culture and antigen detection tests
+Extracted answer: B
+551it [07:07,  1.21it/s]A) Angiosarcoma
+Extracted answer: A
+552it [07:07,  1.18it/s]B) Nivolumab-induced extensive panniculitis
+Extracted answer: B
+553it [07:08,  1.33it/s]B) Start intravenous heparin
+Extracted answer: B
+554it [07:09,  1.23it/s]C) Basal cell carcinoma
+Extracted answer: C
+555it [07:09,  1.46it/s]D) Schistosomiasis
+Extracted answer: D
+556it [07:10,  1.32it/s]C) Atypical mycobacterial infection
+Extracted answer: C
+557it [07:11,  1.52it/s]B) Obtain additional imaging with computed tomography (CT)
+Extracted answer: B
+558it [07:11,  1.58it/s]A) Brain magnetic resonance imaging
+Extracted answer: A
+559it [07:12,  1.41it/s]A) Granulomatous cheilitis
+Extracted answer: A
+560it [07:13,  1.52it/s]C) Erdheim-Chester disease
+Extracted answer: C
+561it [07:14,  1.38it/s]C) Eosinophilic pustular folliculitis
+Extracted answer: C
+562it [07:15,  1.23it/s]C) Susac syndrome
+Extracted answer: C
+563it [07:15,  1.36it/s]C) Perform magnetic resonance imaging of the brain
+Extracted answer: C
+564it [07:16,  1.25it/s]D) Draw a complete blood cell count with differential to evaluate for leukemic retinopathy or blood dyscrasia
+Extracted answer: D
+565it [07:17,  1.25it/s]B) Biopsy the conjunctival and corneal lesion
+Extracted answer: B
+566it [07:17,  1.36it/s]B) Start a longer trial of topical steroid with topical antihistamine
+Extracted answer: B
+567it [07:18,  1.22it/s]C) Measure oxalate levels in blood and urine
+Extracted answer: C
+568it [07:19,  1.36it/s]D) All of the above
+Extracted answer: D
+569it [07:20,  1.27it/s]C) Polycythemia rubra vera
+Extracted answer: C
+570it [07:21,  1.15it/s]D) Coronary artery bypass graft surgery
+Extracted answer: D
+571it [07:22,  1.14it/s]A) Squamous cell carcinoma
+Extracted answer: A
+572it [07:23,  1.13it/s]B) Gigantiform cementoma
+Extracted answer: B
+573it [07:23,  1.34it/s]C) Multifocal canalicular adenoma
+Extracted answer: C
+574it [07:24,  1.36it/s]A) Biopsy the lesions
+Extracted answer: A
+575it [07:24,  1.63it/s]C) Highly selective mesenteric angiography
+Extracted answer: C
+576it [07:25,  1.36it/s]C) Perform endoscopy of upper and lower gastrointestinal tract
+Extracted answer: C
+577it [07:26,  1.48it/s]A) Linear IgA bullous dermatosis
+Extracted answer: A
+578it [07:26,  1.66it/s]D) Lichen planus pigmentosus
+Extracted answer: D
+579it [07:27,  1.38it/s]B) Cystic fibrosis-associated episodic arthritis
+Extracted answer: B
+580it [07:28,  1.25it/s]C) Diabetic striatopathy
+Extracted answer: C
+581it [07:29,  1.32it/s]B) Perform scleral biopsy
+Extracted answer: B
+582it [07:29,  1.49it/s]B) Automated visual field
+Extracted answer: B
+583it [07:30,  1.53it/s]C) Inject foscarnet sodium intravitreally
+Extracted answer: C
+584it [07:30,  1.69it/s]D) Perform fine-needle aspiration biopsy
+Extracted answer: D
+585it [07:31,  1.61it/s]D) Perform an excisional biopsy
+Extracted answer: D
+586it [07:31,  1.84it/s]A) Check myasthenia laboratory findings and commence pyridostigmine trial
+Extracted answer: A
+587it [07:33,  1.38it/s]B) Impingement of the left sympathetic trunk
+Extracted answer: B
+588it [07:34,  1.25it/s]B) Electrophysiology study with possible catheter ablation
+Extracted answer: B
+589it [07:35,  1.15it/s]D) Non-Hodgkin lymphoma
+Extracted answer: D
+590it [07:36,  1.12it/s]C) Neuroborreliosis cranial polyneuritis
+Extracted answer: C
+591it [07:37,  1.07it/s]C) Foregut duplication cyst
+Extracted answer: C
+592it [07:38,  1.08it/s]C) Repeat sweat chloride analysis
+Extracted answer: C
+593it [07:38,  1.29it/s]A) Initiate topical steroid eyedrop therapy
+Extracted answer: A
+594it [07:39,  1.19it/s]C) Perform skin scraping of burrows from multiple sites
+Extracted answer: C
+595it [07:40,  1.14it/s]C) Pyoderma vegetans
+Extracted answer: C
+596it [07:40,  1.35it/s]A) Primary anetoderma
+Extracted answer: A
+597it [07:41,  1.29it/s]C) Plasmacytoma
+Extracted answer: C
+598it [07:42,  1.34it/s]C) Amyand hernia (appendix included within the inguinal hernia sac)
+Extracted answer: C
+599it [07:42,  1.43it/s]C) Ileo-colic intussusception
+Extracted answer: C
+600it [07:43,  1.56it/s]B) Perform a vitreous tap and administer intravitreal injection of antifungal agents
+Extracted answer: B
+601it [07:44,  1.28it/s]A) Chorioretinal biopsy
+Extracted answer: A
+602it [07:44,  1.48it/s]B)
+Extracted answer: B
+603it [07:45,  1.73it/s]B) Orbitotomy with biopsy
+Extracted answer: B
+604it [07:45,  1.81it/s]B)
+Extracted answer: B
+605it [07:46,  1.55it/s]A) Reassurance and artificial tears
+Extracted answer: A
+606it [07:47,  1.69it/s]C) Perform head/maxillofacial computed tomography or magnetic resonance imaging
+Extracted answer: C
+607it [07:47,  1.51it/s]C) Lichen planus
+Extracted answer: C
+608it [07:48,  1.36it/s]A) Transesophageal echocardiogram
+Extracted answer: A
+609it [07:49,  1.30it/s]B) Lymphoma
+Extracted answer: B
+610it [07:50,  1.24it/s]C) Primary middle ear meningioma
+Extracted answer: C
+611it [07:51,  1.17it/s]D) Encephalocele
+Extracted answer: D
+612it [07:52,  1.07it/s]C) Xeroderma pigmentosum
+Extracted answer: C
+613it [07:53,  1.07it/s]C) The VEGF-D level is supportive of a diagnosis of lymphangioleiomyomatosis.
+Extracted answer: C
+614it [07:54,  1.17it/s]D) Order testing for anticyclic citrullinated peptide (CCP) antibody
+Extracted answer: D
+615it [07:55,  1.19it/s]D)
+Extracted answer: D
+616it [07:55,  1.43it/s]B) Mucormycosis
+Extracted answer: B
+617it [07:56,  1.30it/s]B) Vitiligo
+Extracted answer: B
+618it [07:57,  1.22it/s]A) Extranodal natural killer/T-cell lymphoma, nasal type
+Extracted answer: A
+619it [07:57,  1.33it/s]B) Sclerosing encapsulating peritonitis
+Extracted answer: B
+620it [07:58,  1.22it/s]D) Infected aortic graft with aortoduodenal fistula
+Extracted answer: D
+621it [07:59,  1.37it/s]C) Check parathyroid hormone, vitamin D, and calcium levels
+Extracted answer: C
+622it [08:00,  1.36it/s]C) Order mitochondrial genetic testing
+Extracted answer: C
+623it [08:01,  1.28it/s]B) Order a hormone profile (thyrotropin, adrenocorticotrophic hormone, growth hormone, and testosterone) and consult endocrinology
+Extracted answer: B
+624it [08:02,  1.02it/s]C) Perform systemic evaluation for malignancy
+Extracted answer: C
+625it [08:03,  1.04it/s]C) Another MRI scan of the orbit
+Extracted answer: C
+626it [08:04,  1.05it/s]C)
+Extracted answer: C
+627it [08:05,  1.08it/s]A) Mycosis fungoides
+Extracted answer: A
+628it [08:05,  1.31it/s]C) Pursue the culprit coronary artery as yet not identified
+Extracted answer: C
+629it [08:06,  1.19it/s]D) Perform an endoscopic ultrasound of the pancreas with fine-needle aspiration
+Extracted answer: D
+630it [08:07,  1.29it/s]A) Aggressive invasive thyroid cancer
+Extracted answer: A
+631it [08:07,  1.46it/s]B) Acute invasive fungal sinusitis
+Extracted answer: B
+632it [08:08,  1.40it/s]B) Granulomatosis with polyangiitis (Wegner granulomatosis) and relapsing polychondritis
+Extracted answer: B
+633it [08:09,  1.17it/s]A) Osteochondroma
+Extracted answer: A
+634it [08:10,  1.15it/s]B) Obtain an HIV immunoassay
+Extracted answer: B
+635it [08:11,  1.12it/s]D) The patient has warm autoimmune hemolytic anemia.
+Extracted answer: D
+636it [08:12,  1.08it/s]C) Perform percutaneous coronary intervention (PCI)
+Extracted answer: C
+637it [08:13,  1.16it/s]A) The change in serum creatinine is within the coefficient of variation.
+Extracted answer: A
+638it [08:14,  1.10it/s]C) Fixed drug eruption
+Extracted answer: C
+639it [08:14,  1.32it/s]D) Oral squamous cell carcinoma
+Extracted answer: D
+640it [08:15,  1.23it/s]B) Subungual melanoma
+Extracted answer: B
+641it [08:17,  1.01s/it]B) Pharmacotherapy with low-dose atypical antipsychotics
+Extracted answer: B
+642it [08:17,  1.13it/s]C) Autosomal recessive spastic ataxia of Charlevoix-Saguenay
+Extracted answer: C
+643it [08:18,  1.12it/s]C) Superior lumbar hernia (Grynfeltt-Lesshaft hernia)
+Extracted answer: C
+644it [08:19,  1.16it/s]C) Thyroid goiter with compressive symptoms
+Extracted answer: C
+645it [08:20,  1.24it/s]C) Obtain an aqueous fluid sample for polymerase chain reaction and treat with antiviral agents
+Extracted answer: C
+646it [08:20,  1.34it/s]C) Oral corticosteroid treatment and biopsy
+Extracted answer: C
+647it [08:21,  1.23it/s]B) Further taper her corticosteroid dosage and start a cycloplegic agent to break posterior synechiae.
+Extracted answer: B
+648it [08:22,  1.06it/s]B) Perform gonioscopy
+Extracted answer: B
+649it [08:23,  1.07it/s]A) Order a computed tomography scan of the abdomen
+Extracted answer: A
+650it [08:24,  1.15it/s]B) Initiation of treatment with systemic corticosteroids and immunosuppression after HLA-A29 laboratory analysis
+Extracted answer: B
+651it [08:25,  1.20it/s]D) Nuclear protein in testis midline carcinoma
+Extracted answer: D
+652it [08:26,  1.13it/s]C) Pulmonary computed tomography angiography
+Extracted answer: C
+653it [08:26,  1.31it/s]B) Laryngeal gout
+Extracted answer: B
+654it [08:27,  1.46it/s]C) Kimura disease
+Extracted answer: C
+655it [08:27,  1.72it/s]C) Follicular dendritic cell sarcoma
+Extracted answer: C
+656it [08:28,  1.41it/s]B) Perform cardiac echocardiography to rule out right-sided endocarditis
+Extracted answer: B
+657it [08:29,  1.55it/s]B) Perform a diagnostic biopsy of the hyperpigmented area and right ulnar nerve
+Extracted answer: B
+658it [08:30,  1.36it/s]D) The patient requires a liver biopsy to confirm fibrosis stage.
+Extracted answer: D
+659it [08:31,  1.20it/s]B) The patient has masked uncontrolled hypertension.
+Extracted answer: B
+660it [08:32,  1.14it/s]A) Lichen sclerosus et atrophicus
+Extracted answer: A
+661it [08:32,  1.30it/s]A) Trichodysplasia spinulosa
+Extracted answer: A
+662it [08:33,  1.41it/s]C) Deep erythema annulare centrifugum
+Extracted answer: C
+663it [08:34,  1.24it/s]C) Susac syndrome
+Extracted answer: C
+664it [08:35,  1.19it/s]C) Diverticulitis with perforation
+Extracted answer: C
+665it [08:36,  1.14it/s]D) Malignant growth with unknown primary tumor
+Extracted answer: D
+666it [08:36,  1.31it/s]A) Treat with oral corticosteroids
+Extracted answer: A
+667it [08:37,  1.49it/s]B)
+Extracted answer: B
+668it [08:37,  1.35it/s]D) Perform serologic testing for Bartonella henselae and Francisella tularensis
+Extracted answer: D
+669it [08:39,  1.13it/s]B) Indocyanine green angiography, fluorescein angiography, or both
+Extracted answer: B
+670it [08:40,  1.07it/s]B) Obtain aqueous sample through needle aspirate for viral polymerase chain reaction, and start intravitreal and systemic antiviral therapy
+Extracted answer: B
+671it [08:41,  1.14it/s]A) Observe the patient
+Extracted answer: A
+672it [08:41,  1.39it/s](C) Leukemia cutis
+673it [08:41,  1.58it/s]C) Perform right heart catheterization
+Extracted answer: C
+674it [08:42,  1.36it/s]B) The patient’s hemostatic status is not appropriate for surgery because the abnormal PT suggests anticoagulant effect from rivaroxaban.
+Extracted answer: B
+675it [08:44,  1.11it/s]D) Perform further evaluation for subclinical hypercortisolism.
+Extracted answer: D
+676it [08:45,  1.08it/s]D) Genital herpes simplex virus infection
+Extracted answer: D
+677it [08:45,  1.26it/s]D) Rosacea-like dermatitis
+Extracted answer: D
+678it [08:46,  1.31it/s]C) Annular erythema of infancy
+Extracted answer: C
+679it [08:46,  1.38it/s]B) Referral for outpatient exposure and response prevention therapy
+Extracted answer: B
+680it [08:47,  1.38it/s]B) Wernicke encephalopathy
+Extracted answer: B
+681it [08:48,  1.25it/s]B) Bronchopulmonary sequestration
+Extracted answer: B
+682it [08:49,  1.19it/s]B) Shave biopsy of lesion
+Extracted answer: B
+683it [08:51,  1.19s/it]B) Diagnostic anterior chamber paracentesis with intravitreal injection of foscarnet sodium
+Extracted answer: B
+684it [08:52,  1.04s/it]A) Magnetic resonance imaging of the orbits with and without contrast
+Extracted answer: A
+685it [08:53,  1.03s/it]C) Inject a sterile air bubble.
+Extracted answer: C
+686it [08:53,  1.19it/s]D) Order an electroretinogram and a multifocal electroretinogram
+Extracted answer: D
+687it [08:54,  1.29it/s]C) Perform a biopsy of the mass
+Extracted answer: C
+688it [08:54,  1.50it/s]B) Tenosynovial giant cell tumor
+Extracted answer: B
+689it [08:56,  1.06it/s]D) Pursue urgent valve replacement
+Extracted answer: D
+690it [08:57,  1.08it/s]C) Collagenous fibroma
+Extracted answer: C
+691it [08:57,  1.25it/s]C) Increase omeprazole dosing to twice daily.
+Extracted answer: C
+692it [08:58,  1.18it/s]B) Pyoderma gangrenosum
+Extracted answer: B
+693it [08:59,  1.14it/s]C) Disseminated annular granuloma
+Extracted answer: C
+694it [09:00,  1.31it/s]B) Linear porokeratosis
+Extracted answer: B
+695it [09:01,  1.03it/s]C) Orbital apex syndrome
+Extracted answer: C
+696it [09:01,  1.20it/s]B) Atrioesophageal fistula
+Extracted answer: B
+697it [09:02,  1.35it/s]A) Hydrocele
+Extracted answer: A
+698it [09:02,  1.59it/s]D) Observation
+Extracted answer: D
+699it [09:03,  1.43it/s]C) Follow up in 12 months to reexamine the lesion
+Extracted answer: C
+700it [09:04,  1.55it/s]C) Search for nematodes under a high-magnification fundus contact lens examination
+Extracted answer: C
+701it [09:05,  1.28it/s]C) Recommend lumbar puncture
+Extracted answer: C
+702it [09:06,  1.21it/s]D) Discontinue doxycycline
+Extracted answer: D
+703it [09:06,  1.37it/s]D) Genetic testing
+Extracted answer: D
+704it [09:07,  1.55it/s]C) Cutaneous blastic plasmacytoid dendritic cell neoplasm
+Extracted answer: C
+705it [09:08,  1.28it/s]A) Perform PCI to the left anterior descending artery and second diagonal branch with drug-eluting stents
+Extracted answer: A
+706it [09:08,  1.34it/s]C) Reactive sinus histiocytosis
+Extracted answer: C
+707it [09:09,  1.27it/s]C) Pleomorphic adenoma
+Extracted answer: C
+708it [09:10,  1.50it/s]C) Basal cell carcinoma
+Extracted answer: C
+709it [09:11,  1.37it/s]C) Cutaneous sarcoidosis
+Extracted answer: C
+710it [09:11,  1.58it/s]B) Cutaneous silica granuloma
+Extracted answer: B
+711it [09:11,  1.73it/s]D) Rupture of a peripancreatic pseudoaneurysm
+Extracted answer: D
+712it [09:12,  1.64it/s]C) Do plasma electrophoresis and bone marrow analysis
+Extracted answer: C
+713it [09:13,  1.36it/s]B) Discontinue cidofovir therapy, and start therapy with topical corticosteroids and cycloplegia
+Extracted answer: B
+714it [09:14,  1.39it/s]B) Determine blood glucose level and perform glycated hemoglobin test
+Extracted answer: B
+715it [09:15,  1.36it/s]B) Optic nerve sheath biopsy
+Extracted answer: B
+716it [09:15,  1.37it/s]D) Angiofibromas
+Extracted answer: D
+717it [09:16,  1.29it/s]B) Metastatic Crohn disease
+Extracted answer: B
+718it [09:17,  1.46it/s]B) Multisystem Langerhans cell histiocytosis
+Extracted answer: B
+719it [09:18,  1.21it/s]D) Referral to a behavioral intervention program plus pharmacotherapy with aripiprazole for irritability, agitation, and self-injury
+Extracted answer: D
+720it [09:19,  1.05it/s]D) Juvenile plantar dermatosis
+Extracted answer: D
+721it [09:20,  1.06it/s]B) Testicular cancer
+Extracted answer: B
+722it [09:20,  1.27it/s]A) Pancreas injury
+Extracted answer: A
+723it [09:21,  1.44it/s]C) Laboratory workup for uveitis
+Extracted answer: C
+724it [09:22,  1.30it/s]B) Administer intravitreal anti-vascular endothelial growth factor treatment
+Extracted answer: B
+725it [09:23,  1.15it/s]B) Order urgent magnetic resonance imaging of the brain
+Extracted answer: B
+726it [09:25,  1.09s/it]B) Review medical history and systemic medications
+Extracted answer: B
+727it [09:26,  1.05s/it]A) Perform another anterior chamber paracentesis procedure and culture
+Extracted answer: A
+728it [09:26,  1.15it/s]B) Superficial corneal biopsy
+Extracted answer: B
+729it [09:27,  1.12it/s]C) Adenocarcinoma of unknown primary
+Extracted answer: C
+730it [09:28,  1.08it/s](C) Obtain electrocardiogram with right-sided precordial leads
+731it [09:28,  1.25it/s]D) Non-Hodgkin lymphoma
+Extracted answer: D
+732it [09:29,  1.49it/s]C) Amyloidosis
+Extracted answer: C
+733it [09:30,  1.37it/s]B) Semicircular canal dehiscence
+Extracted answer: B
+734it [09:31,  1.26it/s]D) Perineural spread of cutaneous squamous cell carcinoma
+Extracted answer: D
+735it [09:32,  1.15it/s]C) Prescribe a topical corticosteroid and a topical antimicrobial
+Extracted answer: C
+736it [09:32,  1.32it/s]The answer is not provided in the question. Can you please let me know the correct answer options for this question?
+737it [09:33,  1.37it/s]B) Pancreatic panniculitis
+Extracted answer: B
+738it [09:33,  1.50it/s]B) Folliculocentric lichen sclerosus et atrophicus
+Extracted answer: B
+739it [09:34,  1.34it/s]B) Branchio-oto-renal syndrome
+Extracted answer: B
+740it [09:35,  1.52it/s]B) Hemorrhagic shock secondary to perforated hemorrhagic calculous cholecystitis
+Extracted answer: B
+741it [09:35,  1.49it/s]C) Subclavian steal syndrome
+Extracted answer: C
+742it [09:36,  1.65it/s]B) Pars plana vitrectomy with drainage of subretinal fluid
+Extracted answer: B
+743it [09:37,  1.54it/s]C) Perform excisional biopsy
+Extracted answer: C
+744it [09:38,  1.37it/s]A) Observe or perform laser photocoagulation to areas of peripheral retinal nonperfusion
+Extracted answer: A
+745it [09:38,  1.30it/s]C) Observe
+Extracted answer: C
+746it [09:39,  1.25it/s]B) Genetic testing for congenital fibrosis of extraocular muscles
+Extracted answer: B
+747it [09:40,  1.16it/s]C) Perform intraocular lens explantation, capsulectomy, and intravitreal vancomycin injection
+Extracted answer: C
+748it [09:41,  1.26it/s]C) Mycosis fungoides
+Extracted answer: C
+749it [09:41,  1.51it/s]A) Manage the patient medically and perform repeated transthoracic echocardiography in 6 months
+Extracted answer: A
+750it [09:42,  1.39it/s]B) Salivary gland anlage tumor
+Extracted answer: B
+751it [09:43,  1.26it/s]D) Unusual mucocele
+Extracted answer: D
+752it [09:44,  1.22it/s]A) Submandibular gland pleomorphic adenoma
+Extracted answer: A
+753it [09:45,  1.39it/s]C) Lymphoepithelioma-like carcinoma
+Extracted answer: C
+754it [09:45,  1.39it/s]A) Increase esomeprazole to 40 mg twice daily.
+Extracted answer: A
+755it [09:46,  1.39it/s]B) Obtain a biopsy of the nodule
+Extracted answer: B
+756it [09:46,  1.59it/s]C) Annular lichenoid dermatitis of youth
+Extracted answer: C
+757it [09:47,  1.32it/s]C) Erythema induratum
+Extracted answer: C
+758it [09:48,  1.53it/s]B) Prurigo pigmentosa
+Extracted answer: B
+759it [09:48,  1.75it/s]C) Germinoma
+Extracted answer: C
+760it [09:49,  1.48it/s]B) Waardenburg syndrome type 1
+Extracted answer: B
+761it [09:50,  1.31it/s]C) Adenocarcinoma
+Extracted answer: C
+762it [09:51,  1.24it/s]B) Perform pars plana vitrectomy with subretinal biopsy
+Extracted answer: B
+763it [09:52,  1.37it/s]D) Repair canalicular lacerations and perform an orbitotomy for FB removal
+Extracted answer: D
+764it [09:52,  1.48it/s]C) Review medical and family history for hypercoagulable or inflammatory systemic diseases
+Extracted answer: C
+765it [09:54,  1.10it/s]C) Initiate rifampin, isoniazid, pyrazinamide, and ethambutol (RIPE) therapy
+Extracted answer: C
+766it [09:54,  1.16it/s]D) Advanced desmoplastic small round cell tumor
+Extracted answer: D
+767it [09:55,  1.32it/s]A) Conduct an invasive electrophysiological study
+Extracted answer: A
+768it [09:55,  1.53it/s]D) Cervical lymphatic malformation
+Extracted answer: D
+769it [09:56,  1.77it/s]C) Acute invasive fungal sinusitis
+Extracted answer: C
+770it [09:56,  1.92it/s]C) Fibrous dysplasia
+Extracted answer: C
+771it [09:57,  1.53it/s]B) Liposarcoma, conventional myxoid variant
+Extracted answer: B
+772it [09:58,  1.32it/s]C) Perform tissue culture for bacterial and fungal organisms
+Extracted answer: C
+773it [09:58,  1.53it/s]D) Transfuse platelets for risk of postoperative bleeding.
+Extracted answer: D
+774it [09:59,  1.63it/s]A) Borderline lepromatous leprosy with trophic ulcer
+Extracted answer: A
+775it [09:59,  1.68it/s]C) Cutaneous collagenous vasculopathy
+Extracted answer: C
+776it [10:00,  1.77it/s]B) Brown tumor
+Extracted answer: B
+777it [10:00,  2.06it/s]C) Monilethrix
+Extracted answer: C
+778it [10:01,  2.13it/s]B) Small-bowel perforation
+Extracted answer: B
+779it [10:02,  1.63it/s]C) Heterotopic pregnancy
+Extracted answer: C
+780it [10:03,  1.28it/s]D) Observe
+Extracted answer: D
+781it [10:03,  1.34it/s]C) Order magnetic resonance imaging for the orbits and brain
+Extracted answer: C
+782it [10:05,  1.19it/s]D) Order visual field testing and observe closely for serous macular detachment
+Extracted answer: D
+783it [10:05,  1.32it/s]C) Perform exploratory surgery in the operating room and start intravenous antibiotics
+Extracted answer: C
+784it [10:06,  1.09it/s]B) Primary laryngeal carcinoma in the setting of extensive, recurrent head and neck SCC
+Extracted answer: B
+785it [10:07,  1.04it/s]B) Cardiac catheterization
+Extracted answer: B
+786it [10:08,  1.25it/s]C) Solitary fibrous tumor
+Extracted answer: C
+787it [10:08,  1.39it/s]C) Small-cell carcinoma
+Extracted answer: C
+788it [10:09,  1.29it/s]C) Intradiploic meningoencephalocele
+Extracted answer: C
+789it [10:10,  1.27it/s]C) Inquire about history of frequent infections and abnormal bleeding
+Extracted answer: C
+790it [10:11,  1.42it/s]B) Biopsy the lesion
+Extracted answer: B
+791it [10:12,  1.29it/s]C) Granuloma annulare
+Extracted answer: C
+792it [10:12,  1.49it/s]D) Polyarteritis nodosa
+Extracted answer: D
+793it [10:13,  1.51it/s]B) Systemic lupus erythematosus
+Extracted answer: B
+794it [10:13,  1.69it/s]C) Autoimmune encephalitis
+Extracted answer: C
+795it [10:14,  1.60it/s]C) Angiokeratoma
+Extracted answer: C
+796it [10:15,  1.39it/s]C) Carcinoma
+Extracted answer: C
+797it [10:16,  1.30it/s]D) Superior mesenteric artery thromboembolism
+Extracted answer: D
+798it [10:17,  1.19it/s]B)
+Extracted answer: B
+799it [10:17,  1.44it/s]A) Order a lumbar puncture
+Extracted answer: A
+800it [10:18,  1.46it/s]C) Order brain neuroimaging and lumbar puncture
+Extracted answer: C
+801it [10:18,  1.44it/s]C) Perform Tzanck smear on swab from ulcerated lesion
+Extracted answer: C
+802it [10:19,  1.22it/s]B) Spontaneous perinephric hematoma
+Extracted answer: B
+803it [10:20,  1.13it/s]D) Initiate chemotherapy (erlotinib)
+Extracted answer: D
+804it [10:22,  1.08it/s]B) Solitary fibrous tumor
+Extracted answer: B
+805it [10:22,  1.09it/s]B) Infectious pseudotumor
+Extracted answer: B
+806it [10:23,  1.08it/s]C) Subglottic stenosis
+Extracted answer: C
+807it [10:24,  1.06it/s]B) Cutaneous malakoplakia
+Extracted answer: B
+808it [10:25,  1.16it/s]C) Secondary syphilis
+Extracted answer: C
+809it [10:26,  1.25it/s]B) Subcutaneous sarcoidosis
+Extracted answer: B
+810it [10:26,  1.44it/s]B) Vitamin A deficiency
+Extracted answer: B
+811it [10:27,  1.30it/s]B) Acute appendicitis
+Extracted answer: B
+812it [10:28,  1.48it/s]A) Mesenteric ischemia
+Extracted answer: A
+813it [10:28,  1.37it/s]C) Counsel the patient on the prognosis of his condition
+Extracted answer: C
+814it [10:29,  1.52it/s]C) Order contrast-enhanced magnetic resonance imaging of the brain
+Extracted answer: C
+815it [10:30,  1.27it/s]D) Discuss carefully observing vs surgical repair of the ptosis
+Extracted answer: D
+816it [10:30,  1.41it/s]A) Excisional biopsy
+Extracted answer: A
+817it [10:31,  1.68it/s]D) Therapeutic monoclonal antibody at serum concentration detectable by SPEP-IF.
+Extracted answer: D
+818it [10:32,  1.31it/s]C) Order 30-day event monitoring
+Extracted answer: C
+819it [10:33,  1.32it/s]C) Obtain ferritin and soluble IL2Rα testing
+Extracted answer: C
+820it [10:34,  1.21it/s]A) The patient is taking methadone and morphine.
+Extracted answer: A
+821it [10:34,  1.36it/s]B) Scrotal ulceration secondary to induction chemotherapy with ATRA
+Extracted answer: B
+822it [10:35,  1.19it/s]B) Malignant atrophic papulosis
+Extracted answer: B
+823it [10:36,  1.25it/s]A) Bullous pemphigoid
+Extracted answer: A
+824it [10:37,  1.29it/s]B) Familial cold autoinflammatory syndrome
+Extracted answer: B
+825it [10:38,  1.17it/s]B) Compartment syndrome resulting from infiltration of intravenous infusion therapy into the soft tissues of the upper extremity
+Extracted answer: B
+826it [10:39,  1.04it/s]C) Rupture of a jejunal artery aneurysm
+Extracted answer: C
+827it [10:40,  1.19it/s]D) Proceed with sclerotomies, ie, creation of scleral windows
+Extracted answer: D
+828it [10:40,  1.32it/s]C) Obtain blood sample to investigate for autoimmune autonomic ganglionopathy
+Extracted answer: C
+829it [10:41,  1.19it/s]B) Obtain an ultrasonographic biomicroscopy
+Extracted answer: B
+830it [10:42,  1.38it/s]A) Reassure the patient that VF loss is due to remote ischemic optic neuropathy and consider daily aspirin
+Extracted answer: A
+831it [10:43,  1.16it/s]A) Order an emergent coronary angiogram and endomyocardial biopsy.
+Extracted answer: A
+832it [10:44,  1.08it/s]A) Carcinoma erysipeloides (cutaneous metastases of breast cancer)
+Extracted answer: A
+833it [10:45,  1.01it/s]C) Perform a skeletal survey and refer for ophthalmologic consultation
+Extracted answer: C
+834it [10:46,  1.15it/s]B) Proliferative glomerulonephritis is the most likely diagnosis.
+Extracted answer: B
+835it [10:47,  1.08it/s]A) Pemphigus foliaceus
+Extracted answer: A
+836it [10:47,  1.10it/s]A) Oral melanotic macule
+Extracted answer: A
+837it [10:48,  1.09it/s]B) Disseminated varicella zoster virus
+Extracted answer: B
+838it [10:49,  1.23it/s]C) Neurocutaneous melanosis
+Extracted answer: C
+839it [10:50,  1.18it/s]B) Nicolau syndrome (livedoid dermatitis)
+Extracted answer: B
+840it [10:51,  1.22it/s]A) Perforated appendicitis
+Extracted answer: A
+841it [10:51,  1.41it/s]C) Contained esophageal perforation
+Extracted answer: C
+842it [10:52,  1.29it/s]C) Evaluate for systemic infectious disease
+Extracted answer: C
+843it [10:53,  1.20it/s]B) Explore, irrigate, and close the wound
+Extracted answer: B
+844it [10:54,  1.12it/s]D) Infectious and autoimmune workup
+Extracted answer: D
+845it [10:55,  1.10it/s]D) Refer the patient for pacemaker lead revision
+Extracted answer: D
+846it [10:56,  1.07it/s]C) Plasmacytoma
+Extracted answer: C
+847it [10:57,  1.03it/s]C) The patient does not meet criteria for invasive pulmonary aspergillosis.
+Extracted answer: C
+848it [10:58,  1.10it/s]A) Obtain a biopsy for hematoxylin-eosin stain
+Extracted answer: A
+849it [10:58,  1.25it/s]D) The patient may be using both hydrocodone and cocaine.
+Extracted answer: D
+850it [10:59,  1.14it/s]B) Results should be repeated in 12 weeks to confirm diagnosis of antiphospholipid syndrome.
+Extracted answer: B
+851it [11:01,  1.02it/s]C) Carcinoid syndrome
+Extracted answer: C
+852it [11:01,  1.15it/s]C) Duhring disease
+Extracted answer: C
+853it [11:02,  1.36it/s]A) Mucormycosis
+Extracted answer: A
+854it [11:03,  1.26it/s]C) Congenital varicella
+Extracted answer: C
+855it [11:04,  1.21it/s]B) Tuberculous mastitis
+Extracted answer: B
+856it [11:05,  1.15it/s]B) Leiomyosarcoma
+Extracted answer: B
+857it [11:05,  1.29it/s]C) Observe and repeat spectral-domain optical coherence tomography in 6 months to 1 year
+Extracted answer: C
+858it [11:06,  1.15it/s]D) Start systemic corticosteroids and biopsy the superficial temporal artery.
+Extracted answer: D
+859it [11:07,  1.08it/s]D) Attempt lesion rupture with neodymium-doped yttrium aluminum garnet laser
+Extracted answer: D
+860it [11:08,  1.03it/s]B) Perform canthotomy and cantholysis
+Extracted answer: B
+861it [11:09,  1.02it/s]C) Place an emergent transvenous temporary pacemaker
+Extracted answer: C
+862it [11:10,  1.21it/s]B) Granular cell tumor
+Extracted answer: B
+863it [11:10,  1.40it/s]C) Leukemia cutis
+Extracted answer: C
+864it [11:11,  1.29it/s]C) The patient has depressive symptoms of at least moderate severity.
+Extracted answer: C
+865it [11:12,  1.05it/s]B) Evaluate for systemic vasculitis
+Extracted answer: B
+866it [11:13,  1.06it/s]A) Dermatopathia pigmentosa reticularis
+Extracted answer: A
+867it [11:14,  1.05it/s]D) Erythema dyschromicum perstans
+Extracted answer: D
+868it [11:15,  1.23it/s]C) Xanthoma disseminatum
+Extracted answer: C
+869it [11:15,  1.40it/s]B) Dyshidrotic eczema
+Extracted answer: B
+870it [11:16,  1.25it/s]C) Mucocele of the appendix
+Extracted answer: C
+871it [11:17,  1.18it/s]C) Afferent loop syndrome
+Extracted answer: C
+872it [11:18,  1.13it/s]C) Perform a biopsy of the lesion
+Extracted answer: C
+873it [11:19,  1.34it/s]C) Fine-needle aspiration biopsy, followed by observation if the results are consistent with a benign mixed tumor
+Extracted answer: C
+874it [11:20,  1.13it/s]C) Discuss the potential risks and benefits of initiating oral corticosteroid therapy
+Extracted answer: C
+875it [11:21,  1.05it/s]A) Perform rapid plasma reagin and confirmatory fluorescent treponemal antibody absorption testing
+Extracted answer: A
+876it [11:22,  1.18it/s]B) Give amiodarone for treatment of ventricular tachycardia
+Extracted answer: B
+877it [11:22,  1.24it/s]D) The patient has hypercalciuria due to idiopathic hypercalciuria.
+Extracted answer: D
+878it [11:23,  1.36it/s]B) Inflammatory myofibroblastic tumor
+Extracted answer: B
+879it [11:24,  1.22it/s]C) Plasmablastic lymphoma
+Extracted answer: C
+880it [11:24,  1.36it/s]A) Synovial sarcoma
+Extracted answer: A
+881it [11:25,  1.23it/s]C) Sinonasal mucosal melanoma
+Extracted answer: C
+882it [11:26,  1.29it/s]C) Perform a bone marrow biopsy
+Extracted answer: C
+883it [11:27,  1.51it/s]B) Pheochromocytoma; proceed with imaging studies.
+Extracted answer: B
+884it [11:27,  1.63it/s]C) Refer to an oral surgeon for excision
+Extracted answer: C
+885it [11:28,  1.36it/s]C) Request a surgical consult for adrenalectomy
+Extracted answer: C
+886it [11:29,  1.53it/s]C) Septic emboli
+Extracted answer: C
+887it [11:29,  1.74it/s]D) Exophytic Schneiderian papilloma
+Extracted answer: D
+888it [11:30,  1.44it/s]B) Mycobacterium marinum
+Extracted answer: B
+889it [11:31,  1.44it/s]B) Pustular psoriasis
+Extracted answer: B
+890it [11:31,  1.31it/s]D) Metastatic lytic bone lesions of unknown primary
+Extracted answer: D
+891it [11:32,  1.47it/s]C) A recurrent herpetic whitlow
+Extracted answer: C
+892it [11:33,  1.46it/s]B) Refer the patient to a hematology service for possible anticoagulation
+Extracted answer: B
+893it [11:33,  1.54it/s]B) Mucocele
+Extracted answer: B
+894it [11:34,  1.82it/s]B) Extramedullary chronic lymphocytic leukemia
+Extracted answer: B
+895it [11:35,  1.49it/s]C) Fibrous dysplasia
+Extracted answer: C
+896it [11:35,  1.32it/s]A) Pseudoaneurysm
+Extracted answer: A
+897it [11:36,  1.24it/s]C) Serologic testing
+Extracted answer: C
+898it [11:37,  1.46it/s]A) Order human immunodeficiency virus serologies
+Extracted answer: A
+899it [11:38,  1.44it/s]B) Initiate radiation therapy with plaque brachytherapy or proton beam therapy
+Extracted answer: B
+900it [11:39,  1.24it/s]A) The patient is more likely to have a worse prognosis.
+Extracted answer: A
+901it [11:40,  1.16it/s]B) Check antinuclear antibody (ANA)
+Extracted answer: B
+902it [11:40,  1.31it/s]A) The patient has a myeloproliferative neoplasm (MPN).
+Extracted answer: A
+903it [11:41,  1.16it/s]A) Annular elastolytic giant cell granuloma
+Extracted answer: A
+904it [11:42,  1.11it/s]A) Pyogenic granuloma
+Extracted answer: A
+905it [11:43,  1.22it/s]C) Amyloidosis
+Extracted answer: C
+906it [11:43,  1.33it/s]It is not possible for me to view or interpret images, so I cannot answer this question accurately. Please consult with a medical professional for an accurate diagnosis.
+907it [11:45,  1.07it/s]D) Oral lymphangioma
+Extracted answer: D
+908it [11:46,  1.07it/s]C) Sigmoid volvulus
+Extracted answer: C
+909it [11:47,  1.08it/s]B) Small-bowel intussusception secondary to pelvic adhesions
+Extracted answer: B
+910it [11:47,  1.13it/s]D) Percutaneous coronary intervention of the total RCA occlusion
+Extracted answer: D
+911it [11:48,  1.16it/s]A) The marked discordance between the direct and calculated LDL levels is the result of a laboratory error.
+Extracted answer: A
+912it [11:49,  1.25it/s]C) Biphenotypic sinonasal sarcoma
+Extracted answer: C
+913it [11:49,  1.43it/s]C) Osteosarcoma
+Extracted answer: C
+914it [11:50,  1.26it/s]C) Acinic cell carcinoma
+Extracted answer: C
+915it [11:51,  1.44it/s]A) Esthesioneuroblastoma
+Extracted answer: A
+916it [11:51,  1.45it/s]D) Begin treatment with high-dose corticosteroids
+Extracted answer: D
+917it [11:53,  1.26it/s]C)
+Extracted answer: C
+918it [11:53,  1.49it/s]A) Advise the patient’s endocrinologist to request an alternative to a bisphosphonate
+Extracted answer: A
+919it [11:54,  1.53it/s]C) Perform bedside incision and drainage of the blisters and admit for intravenous antibiotics
+Extracted answer: C
+920it [11:55,  1.29it/s]D) Squamous cell carcinoma metastasis
+Extracted answer: D
+921it [11:55,  1.51it/s]C) Order antinuclear antibody, anti-Ro/SS-A, and anti-La/SS-B antibody testing for both the infant and his mother
+Extracted answer: C
+922it [11:56,  1.30it/s]B) Cutaneous malakoplakia
+Extracted answer: B
+923it [11:57,  1.23it/s]C) Pseudoepitheliomatous hyperplasia
+Extracted answer: C
+924it [11:57,  1.44it/s]D) Toxic epidermal necrolysis
+Extracted answer: D
+925it [11:58,  1.30it/s]B) Demyelinating disease (multiple sclerosis or acute disseminated encephalomyelitis)
+Extracted answer: B
+926it [11:59,  1.26it/s]B) Ocular neuromyotonia of the third nerve
+Extracted answer: B
+927it [12:00,  1.25it/s]A) Multiple system atrophy
+Extracted answer: A
+928it [12:01,  1.20it/s]C) Dermoid cyst
+Extracted answer: C
+929it [12:02,  1.05it/s]D) Begin therapeutic plasma exchange
+Extracted answer: D
+930it [12:03,  1.21it/s]A) Middle ear paraganglioma
+Extracted answer: A
+931it [12:04,  1.17it/s]C) Mucocele
+Extracted answer: C
+932it [12:04,  1.42it/s]B) Juvenile nasopharyngeal angiofibroma
+Extracted answer: B
+933it [12:04,  1.55it/s]A) Venous malformation
+Extracted answer: A
+934it [12:05,  1.79it/s]B) Refer to neurology department
+Extracted answer: B
+935it [12:06,  1.52it/s]B) Full laboratory workup for uveitis
+Extracted answer: B
+936it [12:07,  1.35it/s]C) Rapid plasma reagin
+Extracted answer: C
+937it [12:07,  1.42it/s]B) Administer systemic steroids and discuss the potential need for long-term immunosuppression for Susac syndrome
+Extracted answer: B
+938it [12:09,  1.02s/it]D) Diaphragmatic rupture and a traumatic rupture of the descending thoracic aorta
+Extracted answer: D
+939it [12:10,  1.04s/it]C) Sigmoid endometriosis
+Extracted answer: C
+940it [12:11,  1.08it/s]B)
+Extracted answer: B
+941it [12:11,  1.29it/s]D) Advise the patient to discontinue the nutritional supplement
+Extracted answer: D
+942it [12:12,  1.21it/s]C) Obtain renal biopsy
+Extracted answer: C
+943it [12:13,  1.30it/s]A) Start artemether-lumefantrine
+Extracted answer: A
+944it [12:14,  1.16it/s]B) Knee-located erythema elevatum diutinum (EED) with a calcaneal late-stage nodular component
+Extracted answer: B
+945it [12:16,  1.14s/it]D) Impetigo herpetiformis
+Extracted answer: D
+946it [12:16,  1.06it/s]D) Leprosy
+Extracted answer: D
+947it [12:16,  1.27it/s]A) Trauma-focused psychotherapy
+Extracted answer: A
+948it [12:17,  1.52it/s]C) Primary adrenal insufficiency (Addison disease)
+Extracted answer: C
+949it [12:18,  1.19it/s]C) Pulmonary valve replacement for severe pulmonary regurgitation
+Extracted answer: C
+950it [12:19,  1.13it/s]D) Hemangiopericytoma
+Extracted answer: D
+951it [12:19,  1.36it/s]C) Nasal chondromesenchymal hamartoma
+Extracted answer: C
+952it [12:21,  1.01it/s]D) Chordoma
+Extracted answer: D
+953it [12:22,  1.03it/s]B) Eosinophilic granuloma
+Extracted answer: B
+954it [12:23,  1.03it/s]A) Ptosis repair by Müllerectomy or levator advancement
+Extracted answer: A
+955it [12:24,  1.03it/s]D) Check blood pressure
+Extracted answer: D
+956it [12:25,  1.06it/s]C) Obtain a complete blood cell count
+Extracted answer: C
+957it [12:26,  1.07it/s]A) Vitrectomy
+Extracted answer: A
+958it [12:27,  1.10it/s]B) Acute cholecystitis with intrahepatic perforation of the gallbladder
+Extracted answer: B
+959it [12:27,  1.20it/s]A) Mucocele of the appendix
+Extracted answer: A
+960it [12:28,  1.42it/s]C) Gastrointestinal stromal tumor
+Extracted answer: C
+961it [12:29,  1.29it/s]A) Perform local incision and debridement
+Extracted answer: A
+962it [12:29,  1.35it/s]D) Start anticoagulation and refer the patient for evaluation for pulmonary thromboendarterectomy
+Extracted answer: D
+963it [12:30,  1.17it/s]C) Photoallergic drug reaction
+Extracted answer: C
+964it [12:31,  1.29it/s]C) Mycosis fungoides
+Extracted answer: C
+965it [12:32,  1.22it/s]A) Botryomycosis
+Extracted answer: A
+966it [12:33,  1.18it/s]C) Seronegative myasthenia gravis
+Extracted answer: C
+967it [12:34,  1.11it/s]C) Hypothyroidism
+Extracted answer: C
+968it [12:35,  1.10it/s]C) Coronary angiography
+Extracted answer: C
+969it [12:35,  1.20it/s]B) Lymphangioma
+Extracted answer: B
+970it [12:36,  1.30it/s]D) Solitary cutaneous myxoma
+Extracted answer: D
+971it [12:37,  1.22it/s]B) Multiple myeloma
+Extracted answer: B
+972it [12:38,  1.19it/s]C) Multifocal granular cell tumor
+Extracted answer: C
+973it [12:39,  1.16it/s]C) Esophageal bronchus
+Extracted answer: C
+974it [12:40,  1.12it/s]A) Repeat IV methylprednisolone with slower taper
+Extracted answer: A
+975it [12:40,  1.18it/s]C) Take the patient to the operating room for an alteplase washout with an air bubble
+Extracted answer: C
+976it [12:41,  1.25it/s]B) Perform an emergent pars plana vitrectomy/lensectomy
+Extracted answer: B
+977it [12:42,  1.14it/s]A) Order a complete blood cell count and coagulation testing
+Extracted answer: A
+978it [12:43,  1.31it/s]D) Gastrointestinal stromal tumor of the small bowel
+Extracted answer: D
+979it [12:43,  1.41it/s]B) Retrocecal acute appendicitis
+Extracted answer: B
+980it [12:44,  1.61it/s]C)
+Extracted answer: C
+981it [12:44,  1.62it/s]B) Initiate antiviral therapy with valacyclovir
+Extracted answer: B
+982it [12:45,  1.34it/s]C) Initiate oral cephalexin therapy
+Extracted answer: C
+983it [12:46,  1.22it/s]C) Perform a lumbar puncture for examination of cerebrospinal fluid (CSF)
+Extracted answer: C
+984it [12:47,  1.09it/s]D) Pyoderma gangrenosum
+Extracted answer: D
+985it [12:48,  1.07it/s]D) Lipoid proteinosis
+Extracted answer: D
+986it [12:49,  1.18it/s]C) Erythema multiforme
+Extracted answer: C
+987it [12:50,  1.39it/s]B) Adult-onset cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss syndrome
+Extracted answer: B
+988it [12:51,  1.18it/s]D) Hereditary diffuse leukoencephalopathy with axonal spheroids
+Extracted answer: D
+989it [12:51,  1.20it/s]D) Varicella-zoster virus infection
+Extracted answer: D
+990it [12:52,  1.16it/s]C) Place a dual chamber pacemaker
+Extracted answer: C
+991it [12:53,  1.25it/s]A) Langerhans cell histiocytosis
+Extracted answer: A
+992it [12:53,  1.47it/s]B) Neuromuscular hamartoma
+Extracted answer: B
+993it [12:54,  1.61it/s]B) Laryngeal gout
+Extracted answer: B
+994it [12:55,  1.39it/s]D) Thyroglossal duct cyst
+Extracted answer: D
+995it [12:56,  1.25it/s]D) Staging workup (eg, total-body positron emission tomography/computed tomography imaging)
+Extracted answer: D
+996it [12:57,  1.30it/s]C) Serum and urine testing for various inflammatory and infectious processes
+Extracted answer: C
+997it [12:58,  1.20it/s]C) Biopsy the eyelid
+Extracted answer: C
+998it [12:58,  1.40it/s]B) Order bloodwork (complete blood cell count, erythrocyte sedimentation rate, C-reactive protein, VDRL, angiotensin-converting enzyme, and antinuclear antibody) and magnetic resonance imaging of the brain and orbits
+Extracted answer: B
+999it [13:00,  1.04it/s]C) Crohn ileitis
+Extracted answer: C
+1000it [13:00,  1.15it/s]C) Inclusion cyst
+Extracted answer: C
+1001it [13:01,  1.36it/s]C) Adenoid cystic carcinoma
+Extracted answer: C
+1002it [13:01,  1.56it/s]A) Perform a biopsy of skin lesion
+Extracted answer: A
+1003it [13:02,  1.55it/s]D) Equestrian perniosis
+Extracted answer: D
+1004it [13:03,  1.38it/s]B) Pyoderma gangrenosum
+Extracted answer: B
+1005it [13:04,  1.26it/s]C) Plantar cerebriform collagenoma
+Extracted answer: C
+1006it [13:05,  1.16it/s]B) Henoch-Schonlein purpura
+Extracted answer: B
+1007it [13:06,  1.03it/s]B) Gastrointestinal obstruction due to internal hernia
+Extracted answer: B
+1008it [13:07,  1.00s/it]D) Nodular melanoma
+Extracted answer: D
+1009it [13:08,  1.02it/s]A) Emergent coronary artery bypass graft surgery
+Extracted answer: A
+1010it [13:08,  1.25it/s]C) Thyroid cartilage fracture
+Extracted answer: C
+1011it [13:09,  1.44it/s]B) Persistent stapedial artery
+Extracted answer: B
+1012it [13:09,  1.63it/s]C) Glomus tumor
+Extracted answer: C
+1013it [13:10,  1.41it/s]C) Fibrovascular polyp
+Extracted answer: C
+1014it [13:11,  1.25it/s]C) Obtain carotid Doppler
+Extracted answer: C
+1015it [13:11,  1.49it/s]C) Observe
+Extracted answer: C
+1016it [13:12,  1.38it/s]A) Perform a biopsy of the mass
+Extracted answer: A
+1017it [13:13,  1.26it/s]C) Lumbar puncture
+Extracted answer: C
+1018it [13:14,  1.47it/s]B) Plaque psoriasis
+Extracted answer: B
+1019it [13:14,  1.34it/s]B) Diagnose severe CDI and prescribe vancomycin.
+Extracted answer: B
+1020it [13:15,  1.45it/s]A) Blue rubber bleb nevus syndrome
+Extracted answer: A
+1021it [13:16,  1.25it/s]C) Multiple eruptive dermatofibromas
+Extracted answer: C
+1022it [13:17,  1.17it/s]D) Granulomatosis with polyangiitis
+Extracted answer: D
+1023it [13:18,  1.11it/s]D) Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+Extracted answer: D
+1024it [13:19,  1.02s/it]B) Eczema herpeticum
+Extracted answer: B
+1025it [13:20,  1.18it/s]C) Lymphoma
+Extracted answer: C
+1026it [13:20,  1.39it/s]A) Cecal volvulus
+Extracted answer: A
+1027it [13:21,  1.45it/s]C) Order B-scan ultrasonography or fundus autofluorescence imaging of optic nerves
+Extracted answer: C
+1028it [13:21,  1.49it/s]B) Lymph node biopsy
+Extracted answer: B
+1029it [13:24,  1.23s/it]C) Obtain consultation for urgent surgical valve replacement
+Extracted answer: C
+1030it [13:24,  1.02it/s]B) Tracheocele
+Extracted answer: B
+1031it [13:25,  1.24it/s]B) Granular cell tumor
+Extracted answer: B
+1032it [13:26,  1.21it/s]C) Mucus retention cyst
+Extracted answer: C
+1033it [13:27,  1.16it/s]C) Pseudomembranous epiglottitis
+Extracted answer: C
+1034it [13:28,  1.09it/s]B) Check antinuclear antibodies, anticardiolipin antibodies, anti-double-stranded DNA antibodies, antineutrophil cytoplasmic antibodies, and angiotensin-converting enzyme (ACE)
+Extracted answer: B
+1035it [13:29,  1.05s/it]C) Refer for magnetic resonance imaging
+Extracted answer: C
+1036it [13:29,  1.17it/s]B) Add trimethoprim and sulfamethoxazole and corticosteroids for Pneumocystis jiroveci pneumonia
+Extracted answer: B
+1037it [13:30,  1.17it/s]C) Leukemia cutis
+Extracted answer: C
+1038it [13:32,  1.02s/it]D) The patient does not have a clotting factor inhibitor.
+Extracted answer: D
+1039it [13:32,  1.16it/s]D) Perform a diagnostic test to clarify the diagnosis
+Extracted answer: D
+1040it [13:33,  1.30it/s]B) Onychopapilloma
+Extracted answer: B
+1041it [13:34,  1.22it/s]B) Eruptive disseminated Spitz nevi
+Extracted answer: B
+1042it [13:34,  1.36it/s]C) Angiokeratoma circumscriptum
+Extracted answer: C
+1043it [13:35,  1.23it/s]D) Pyogenic osteomyelitis
+Extracted answer: D
+1044it [13:36,  1.17it/s]B) Thymolipoma
+Extracted answer: B
+1045it [13:37,  1.40it/s]C) Prolonged ileus secondary to retained intraluminal old blood
+Extracted answer: C
+1046it [13:37,  1.49it/s]B) Initiate uveitis workup and begin topical glucocorticoid therapy
+Extracted answer: B
+1047it [13:38,  1.53it/s]C) Obtain specular microscopy
+Extracted answer: C
+1048it [13:38,  1.72it/s]B) Start systemic corticosteroids
+Extracted answer: B
+1049it [13:39,  1.45it/s]D) Phacoemulsification with intraocular lens placement in the left eye
+Extracted answer: D
+1050it [13:40,  1.55it/s]D) Takotsubo cardiomyopathy
+Extracted answer: D
+1051it [13:40,  1.50it/s]A) Solitary fibrous tumor
+Extracted answer: A
+1052it [13:41,  1.67it/s]A) Bilateral otosclerosis
+Extracted answer: A
+1053it [13:41,  1.62it/s]B) Supraglottic paraganglioma
+Extracted answer: B
+1054it [13:42,  1.63it/s]C) Parathyroid lipoadenoma
+Extracted answer: C
+1055it [13:43,  1.38it/s]C) Lymphomatoid papulosis
+Extracted answer: C
+1056it [13:43,  1.56it/s]D) The patient has subclinical hypothyroidism and should have the TSH level repeated in 1 to 3 months.
+Extracted answer: D
+1057it [13:44,  1.49it/s]C) Start parenteral thiamine
+Extracted answer: C
+1058it [13:45,  1.67it/s]A) Guttata hypomelanosis
+Extracted answer: A
+1059it [13:46,  1.43it/s]C) Antimelanoma differentiation associated gene 5 clinically amyopathic dermatomyositis
+Extracted answer: C
+1060it [13:47,  1.20it/s]A) Wells syndrome
+Extracted answer: A
+1061it [13:48,  1.18it/s]B) Urea cycle disorder
+Extracted answer: B
+1062it [13:48,  1.30it/s]D) Viral hepatitis
+Extracted answer: D
+1063it [13:49,  1.22it/s]C)
+Extracted answer: C
+1064it [13:50,  1.21it/s]A) Pseudoaneurysm due to free wall rupture
+Extracted answer: A
+1065it [13:51,  1.15it/s]C) Prescribe oral aciclovir
+Extracted answer: C
+1066it [13:52,  1.12it/s]C) Start topical steroids and cyclosporine A eyedrops
+Extracted answer: C
+1067it [13:53,  1.06it/s]C) Perform an immediate lumbar puncture
+Extracted answer: C
+1068it [13:54,  1.05it/s]B) Order magnetic resonance imaging and magnetic resonance angiography of the brain and cervical spine
+Extracted answer: B
+1069it [13:55,  1.11it/s]D) Perform serum and urine immunofixation and light chain determination
+Extracted answer: D
+1070it [13:55,  1.29it/s]C) Malignant mixed tumor of salivary gland
+Extracted answer: C
+1071it [13:56,  1.18it/s]B) Vocal cord polyp
+Extracted answer: B
+1072it [13:57,  1.41it/s]B) Intrasphenoid pseudoaneurysm of the internal carotid artery
+Extracted answer: B
+1073it [13:57,  1.49it/s]C) Kimura disease
+Extracted answer: C
+1074it [13:58,  1.36it/s]B) Laryngocele
+Extracted answer: B
+1075it [13:59,  1.17it/s]C) Idelalisib-induced colitis
+Extracted answer: C
+1076it [14:00,  1.12it/s]D) Swab lesions and send for polymerase chain reaction testing for coxsackievirus (i.e., hand-foot-mouth disease)
+Extracted answer: D
+1077it [14:01,  1.14it/s]D) The patient has antiglomerular basement membrane disease (Goodpasture syndrome).
+Extracted answer: D
+1078it [14:02,  1.05it/s]C) Follicular mucinosis
+Extracted answer: C
+1079it [14:03,  1.22it/s]C) Birt-Hogg-Dube syndrome
+Extracted answer: C
+1080it [14:04,  1.16it/s]B) Annular elastolytic giant cell granuloma
+Extracted answer: B
+1081it [14:04,  1.33it/s]A) Neonatal varicella syndrome
+Extracted answer: A
+1082it [14:05,  1.38it/s]B) Gallstone ileus
+Extracted answer: B
+1083it [14:05,  1.41it/s]C) Pancreatic pseudocyst
+Extracted answer: C
+1084it [14:06,  1.29it/s]D) Perform a pars plana vitrectomy to displace or remove the implant
+Extracted answer: D
+1085it [14:07,  1.41it/s]B) Schedule the patient for lensectomies with anterior vitrectomy and intraocular lens placement
+Extracted answer: B
+1086it [14:08,  1.16it/s]C) Inject an intravitreous anti–vascular endothelial growth factor medication
+Extracted answer: C
+1087it [14:09,  1.29it/s]D) Completely excise the lesion with pathological analysis
+Extracted answer: D
+1088it [14:10,  1.21it/s]D) Perform ECG with right precordial leads
+Extracted answer: D
+1089it [14:11,  1.16it/s]B) Teratoma
+Extracted answer: B
+1090it [14:11,  1.16it/s]C) Cystic ameloblastoma
+Extracted answer: C
+1091it [14:12,  1.24it/s]D) Metastatic breast adenocarcinoma
+Extracted answer: D
+1092it [14:13,  1.16it/s]C) Eccrine syringofibroadenoma and squamous cell carcinoma
+Extracted answer: C
+1093it [14:14,  1.24it/s]A) Ulcerated squamous cell carcinoma
+Extracted answer: A
+1094it [14:15,  1.19it/s]B) Evaluate for primary adrenal insufficiency with a 250-μg corticotropin stimulation test.
+Extracted answer: B
+1095it [14:16,  1.18it/s]B) Erythropoietic protoporphyria
+Extracted answer: B
+1096it [14:17,  1.12it/s]C) Multiple mucosal neuromas in multiple endocrine neoplasia type 2b
+Extracted answer: C
+1097it [14:17,  1.25it/s]C) Bacillary angiomatosis
+Extracted answer: C
+1098it [14:18,  1.45it/s]The answer is missing. Please provide the complete options for me to assist you with the correct answer.
+1099it [14:19,  1.32it/s]D) Obturator hernia
+Extracted answer: D
+1100it [14:19,  1.52it/s]D) Retroperitoneal liposarcoma
+Extracted answer: D
+1101it [14:19,  1.65it/s]B) Inject intravitreal antibiotics
+Extracted answer: B
+1102it [14:20,  1.45it/s]C) Neuropsychological testing
+Extracted answer: C
+1103it [14:21,  1.33it/s]B) Adjust topical medications to decrease intraocular pressure and perform visual field testing
+Extracted answer: B
+1104it [14:22,  1.19it/s]A) Topical apraclonidine test
+Extracted answer: A
+1105it [14:23,  1.14it/s]B) Sweet syndrome
+Extracted answer: B
+1106it [14:24,  1.34it/s]D) Proceed with electrophysiology study and AF ablation
+Extracted answer: D
+1107it [14:24,  1.50it/s]A) Proliferative myositis
+Extracted answer: A
+1108it [14:25,  1.66it/s]C) Odontogenic myxofibroma
+Extracted answer: C
+1109it [14:26,  1.41it/s]C) Tularemia
+Extracted answer: C
+1110it [14:26,  1.66it/s]C) Sarcoidosis
+Extracted answer: C
+1111it [14:26,  1.88it/s]B) Low-grade cribriform cystadenocarcinoma
+Extracted answer: B
+1112it [14:27,  1.88it/s]B) Obtain serum antinuclear antibody and lupus anticoagulant assay
+Extracted answer: B
+1113it [14:28,  1.42it/s]A) Her ascites is primarily due to cirrhosis.
+Extracted answer: A
+1114it [14:29,  1.13it/s]C) Commence corticosteroids
+Extracted answer: C
+1115it [14:30,  1.33it/s]D) The result is inconclusive.
+Extracted answer: D
+1116it [14:31,  1.22it/s]D) Secondary syphilis
+Extracted answer: D
+1117it [14:32,  1.19it/s]C) Granulomatous manifestation of inflammatory bowel disease
+Extracted answer: C
+1118it [14:33,  1.12it/s]A) Gnathostomiasis
+Extracted answer: A
+1119it [14:33,  1.12it/s]A) Calcified hydatid cyst
+Extracted answer: A
+1120it [14:34,  1.35it/s]B) Congenital splenic cyst
+Extracted answer: B
+1121it [14:35,  1.26it/s]D) Obtain erythrocyte sedimentation rate and C-reactive protein level
+Extracted answer: D
+1122it [14:36,  1.13it/s]D) Schedule transscleral or transvitreal biopsy
+Extracted answer: D
+1123it [14:37,  1.10it/s]C) Obtain a chorioretinal fine-needle aspiration biopsy sample of the lesion
+Extracted answer: C
+1124it [14:37,  1.25it/s]C) Embolization followed by orbitotomy and biopsy
+Extracted answer: C
+1125it [14:38,  1.28it/s]A) Psoriasis
+Extracted answer: A
+1126it [14:39,  1.24it/s]C) Right ventricular failure
+Extracted answer: C
+1127it [14:39,  1.48it/s]C) Amyloidosis
+Extracted answer: C
+1128it [14:40,  1.35it/s]C) Myeloid sarcoma of the larynx
+Extracted answer: C
+1129it [14:41,  1.22it/s]B) Osseous choristoma
+Extracted answer: B
+1130it [14:42,  1.17it/s]A) Thornwaldt cyst
+Extracted answer: A
+1131it [14:43,  1.13it/s]B) Perform microscopic urinalysis to confirm the presence of blood in the urine.
+Extracted answer: B
+1132it [14:44,  1.21it/s]B) Focal dermal hypoplasia (Goltz syndrome)
+Extracted answer: B
+1133it [14:44,  1.31it/s]B) Neonatal pustular melanosis
+Extracted answer: B
+1134it [14:45,  1.21it/s]B) Eruptive xanthomas
+Extracted answer: B
+1135it [14:46,  1.38it/s]B) Tolosa-Hunt syndrome, a retrobulbar inflammation
+Extracted answer: B
+1136it [14:46,  1.54it/s]D) Vascular occlusive disease
+Extracted answer: D
+1137it [14:47,  1.73it/s]C) Duodenal web
+Extracted answer: C
+1138it [14:47,  1.97it/s]A) Perform wide local excision with map biopsies
+Extracted answer: A
+1139it [14:48,  1.68it/s]A) Obtain a corneal culture
+Extracted answer: A
+1140it [14:49,  1.41it/s]B) Obtain aqueous and vitreous samples for polymerase chain reaction/culture/cytology
+Extracted answer: B
+1141it [14:50,  1.19it/s]B) Perform incisional biopsy of the left lacrimal gland
+Extracted answer: B
+1142it [14:51,  1.12it/s]A) Coxsackievirus A6–associated exanthem
+Extracted answer: A
+1143it [14:52,  1.16it/s]C) Both lesions are ischemic and should have a stent placed.
+Extracted answer: C
+1144it [14:52,  1.32it/s]C) Osteosarcoma
+Extracted answer: C
+1145it [14:53,  1.25it/s]A) Chondroma
+Extracted answer: A
+1146it [14:54,  1.50it/s]C) Chordoma
+Extracted answer: C
+1147it [14:54,  1.38it/s]A) Complicated acute otitis media
+Extracted answer: A
+1148it [14:55,  1.28it/s]C) Endolymphatic sac tumor
+Extracted answer: C
+1149it [14:56,  1.22it/s]B) Solitary plasmacytoma of bone
+Extracted answer: B
+1150it [14:57,  1.17it/s]A) Perform skin biopsy
+Extracted answer: A
+1151it [14:58,  1.12it/s]A) The patient has a low-normal serum erythropoietin level. She should be tested for JAK2V16F mutation status.
+Extracted answer: A
+1152it [15:00,  1.03s/it]B) Order urgent temporary transvenous pacemaker placement
+Extracted answer: B
+1153it [15:00,  1.14it/s]B) IgG4-related skin disease
+Extracted answer: B
+1154it [15:01,  1.13it/s]C) Leukemia cutis with leukemic vasculitis
+Extracted answer: C
+1155it [15:02,  1.19it/s]C) Phaeohyphomycosis
+Extracted answer: C
+1156it [15:03,  1.14it/s]C) Order brain magnetic resonance imaging
+Extracted answer: C
+1157it [15:04,  1.12it/s]A) Observe, because her symptoms are likely from her prior posterior vitreous detachment
+Extracted answer: A
+1158it [15:04,  1.27it/s]A) Start systemic and topical antibiotics
+Extracted answer: A
+1159it [15:05,  1.21it/s]C) Biopsy lesions to rule out malignancy or premalignancy
+Extracted answer: C
+1160it [15:06,  1.35it/s]A) Gastrointestinal stromal tumor
+Extracted answer: A
+1161it [15:07,  1.26it/s]C) Primary hyperparathyroidism
+Extracted answer: C
+1162it [15:07,  1.19it/s]C) Chronic kidney disease
+Extracted answer: C
+1163it [15:09,  1.09it/s]C) Acute aortic dissection
+Extracted answer: C
+1164it [15:09,  1.27it/s]C) Gardner syndrome
+Extracted answer: C
+1165it [15:10,  1.24it/s]C) Laryngeal schwannoma
+Extracted answer: C
+1166it [15:11,  1.16it/s]C) Primary laryngotracheobronchial amyloidosis
+Extracted answer: C
+1167it [15:12,  1.07it/s]D) Reaction to radiotherapy
+Extracted answer: D
+1168it [15:13,  1.09it/s]B) Myeloid sarcoma
+Extracted answer: B
+1169it [15:14,  1.09it/s]B) Complete 14 days of antibiotic treatment for Lyme disease. Repeat Lyme disease serology in 1 month to evaluate response.
+Extracted answer: B
+1170it [15:15,  1.00s/it]D) Send parvovirus B19 serologies and polymerase chain reaction for viral DNA
+Extracted answer: D
+1171it [15:16,  1.02s/it]B)
+Extracted answer: B
+1172it [15:17,  1.14it/s]A) Argyria
+Extracted answer: A
+1173it [15:17,  1.38it/s]D) Congenital cutaneous candidiasis
+Extracted answer: D
+1174it [15:17,  1.55it/s]C) Classic Dowling-Degos disease
+Extracted answer: C
+1175it [15:18,  1.38it/s]D) Pars plana vitrectomy with removal of the intraocular lens and capsule
+Extracted answer: D
+1176it [15:19,  1.36it/s]B) Reposition the tube
+Extracted answer: B
+1177it [15:19,  1.62it/s]B) Refer for genetic counseling and potential testing for an NR2E3 mutation
+Extracted answer: B
+1178it [15:20,  1.47it/s]B)
+Extracted answer: B
+1179it [15:21,  1.67it/s]A) Carotid artery dissection
+Extracted answer: A
+1180it [15:21,  1.88it/s]D) Neisseria meningitidis
+Extracted answer: D
+1181it [15:22,  1.50it/s]B) Add a second antiarrhythmic drug and reassess the need for epicardial intervention after 3 to 6 months
+Extracted answer: B
+1182it [15:23,  1.20it/s]D) Otosclerosis
+Extracted answer: D
+1183it [15:24,  1.46it/s]A) Angiosarcoma
+Extracted answer: A
+1184it [15:24,  1.34it/s]D) Laryngeal amyloidosis
+Extracted answer: D
+1185it [15:25,  1.52it/s]A) Thymoma
+Extracted answer: A
+1186it [15:25,  1.81it/s]A) Metastatic non–small-cell lung cancer
+Extracted answer: A
+1187it [15:26,  1.81it/s]C) The result is equivocal and repeat testing is needed.
+Extracted answer: C
+1188it [15:27,  1.46it/s]C) Obtain a skin biopsy from the upper back
+Extracted answer: C
+1189it [15:28,  1.32it/s]B) Relapsing polychondritis
+Extracted answer: B
+1190it [15:28,  1.52it/s]B) Lucio phenomenon
+Extracted answer: B
+1191it [15:29,  1.53it/s]C) Multicentric reticulohistiocytosis
+Extracted answer: C
+1192it [15:29,  1.56it/s]B) Carcinomatous meningitis–primary adenocarcinoma of the lung
+Extracted answer: B
+1193it [15:30,  1.63it/s]D) Treat with intravitreal antivascular endothelial growth factor injection
+Extracted answer: D
+1194it [15:31,  1.34it/s]C) Observation
+Extracted answer: C
+1195it [15:31,  1.56it/s]D) Digital subtraction angiography with embolization of carotid cavernous fistula
+Extracted answer: D
+1196it [15:32,  1.43it/s]C) Ischemic stroke
+Extracted answer: C
+1197it [15:33,  1.40it/s]I'm sorry, but the answer is missing. Could you please provide the answer options for this question?
+1198it [15:34,  1.18it/s]A) Complications of otitis media
+Extracted answer: A
+1199it [15:35,  1.35it/s]A) Endolymphatic sac tumor
+Extracted answer: A
+1200it [15:35,  1.38it/s]B) Isolated anosmia
+Extracted answer: B
+1201it [15:36,  1.25it/s]B) Branchial cleft fistula
+Extracted answer: B
+1202it [15:37,  1.19it/s]D) Takayasu arteritis
+Extracted answer: D
+1203it [15:38,  1.16it/s]A) Ruptured giant cavernous hemangioma
+Extracted answer: A
+1204it [15:39,  1.13it/s]C) The significance of the amino acid exchange in CARD11 is a variant of unknown significance, so treatment with ibrutinib may be considered.
+Extracted answer: C
+1205it [15:40,  1.03s/it]D) Order magnetic resonance imaging (MRI) of the brain
+Extracted answer: D
+1206it [15:42,  1.04s/it]A) The elevated testosterone level is consistent with polycystic ovary syndrome (PCOS).
+Extracted answer: A
+1207it [15:42,  1.10it/s]D) Transcellular potassium shift
+Extracted answer: D
+1208it [15:43,  1.34it/s]B) Bullous amyloidosis
+Extracted answer: B
+1209it [15:43,  1.38it/s]C) Granulomatous cheilitis
+Extracted answer: C
+1210it [15:44,  1.37it/s]C) Birt-Hogg-Dube syndrome
+Extracted answer: C
+1211it [15:45,  1.23it/s]C)
+Extracted answer: C
+1212it [15:46,  1.23it/s]C) Refer for rheumatologic workup
+Extracted answer: C
+1213it [15:46,  1.44it/s]C) Treat with oral corticosteroids
+Extracted answer: C
+1214it [15:47,  1.60it/s]B) Cutaneous fungal infection
+Extracted answer: B
+1215it [15:47,  1.76it/s]B) Vanishing bile duct syndrome associated with Hodgkin lymphoma
+Extracted answer: B
+1216it [15:48,  1.38it/s]B) Type III neuroendocrine tumor of the stomach
+Extracted answer: B
+1217it [15:49,  1.26it/s]C) Hydatid cyst of the pancreas
+Extracted answer: C
+1218it [15:50,  1.46it/s]A) Lymphoma
+Extracted answer: A
+1219it [15:50,  1.34it/s]D) Perform a screening test for syphilis (rapid plasma reagin)
+Extracted answer: D
+1220it [15:51,  1.19it/s]C) Perform a punch biopsy and send for bacterial, fungal, and acid-fast bacillary cultures
+Extracted answer: C
+1221it [15:53,  1.02it/s]A) The patient’s slow rise in prostate-specific antigen (PSA) level and enlarged prostate are consistent with benign prostatic hyperplasia, and his probability of prostate cancer is less than 10%.
+Extracted answer: A
+1222it [15:54,  1.04s/it]A) Further testing is unnecessary because the patient is asymptomatic and has high exercise capacity.
+Extracted answer: A
+1223it [15:55,  1.09s/it]D) Hyperkeratotic spicules of multiple myeloma
+Extracted answer: D
+1224it [15:56,  1.11it/s]C) Leishmaniasis
+Extracted answer: C
+1225it [15:56,  1.21it/s]C) GM1 gangliosidosis
+Extracted answer: C
+1226it [15:57,  1.37it/s]C)
+Extracted answer: C
+1227it [15:58,  1.31it/s]C) Perform magnetic resonance imaging of the brain and spine
+Extracted answer: C
+1228it [15:58,  1.47it/s]B) Initiate corticosteroid-sparing immunosuppressive therapy
+Extracted answer: B
+1229it [15:59,  1.28it/s]C) Orf
+Extracted answer: C
+1230it [15:59,  1.55it/s]B) Vocal fold squamous cell carcinoma
+Extracted answer: B
+1231it [16:00,  1.74it/s]C) Nasal angioleiomyoma
+Extracted answer: C
+1232it [16:01,  1.45it/s]C) Esthesioneuroblastoma
+Extracted answer: C
+1233it [16:02,  1.30it/s]B) Lymphoma
+Extracted answer: B
+1234it [16:03,  1.31it/s]B) Aberrant internal carotid artery
+Extracted answer: B
+1235it [16:03,  1.45it/s]C) Hypophysitis
+Extracted answer: C
+1236it [16:04,  1.36it/s]B) Giant condyloma
+Extracted answer: B
+1237it [16:04,  1.62it/s]B) Fibrolamellar carcinoma
+Extracted answer: B
+1238it [16:05,  1.41it/s]C) Start oral prednisone
+Extracted answer: C
+1239it [16:06,  1.29it/s]D) The patient has hyperprolactinemia due to a prolactinoma.
+Extracted answer: D
+1240it [16:07,  1.14it/s]D) Obtain skin swab for varicella zoster virus direct fluorescent antibody level
+Extracted answer: D
+1241it [16:08,  1.06it/s]A) Calciphylaxis
+Extracted answer: A
+1242it [16:09,  1.07it/s]C) Lichen planus actinicus
+Extracted answer: C
+1243it [16:10,  1.29it/s]B) Lupus erythematosus
+Extracted answer: B
+1244it [16:11,  1.22it/s]D) Vitreous tap/biopsy
+Extracted answer: D
+1245it [16:11,  1.37it/s]B) Obtain magnetic resonance imaging of the brain
+Extracted answer: B
+1246it [16:12,  1.52it/s]B) Ehrlichiosis
+Extracted answer: B
+1247it [16:12,  1.78it/s]A) Parosteal osteosarcoma
+Extracted answer: A
+1248it [16:13,  1.49it/s]B) Mucoepidermoid carcinoma
+Extracted answer: B
+1249it [16:13,  1.50it/s]D) Invasive necrotizing fungal gingivitis
+Extracted answer: D
+1250it [16:14,  1.63it/s]C) Ancient schwannoma.
+Extracted answer: C
+1251it [16:14,  1.75it/s]A) Endogenous endophthalmitis
+Extracted answer: A
+1252it [16:15,  1.46it/s]C) Gallbladder duplication with double cystic duct
+Extracted answer: C
+1253it [16:16,  1.56it/s]D) Infrarenal aortitis due to diverticulitis
+Extracted answer: D
+1254it [16:16,  1.69it/s]B) Perform a skin biopsy for histopathologic examination
+Extracted answer: B
+1255it [16:17,  1.74it/s]B) The elevated platelet count most likely resulted from a transient and not reproducible finding
+Extracted answer: B
+1256it [16:18,  1.38it/s]B) Trichomycosis axillaris
+Extracted answer: B
+1257it [16:19,  1.26it/s]B) Urticaria pigmentosa
+Extracted answer: B
+1258it [16:19,  1.43it/s]B) Argyria
+Extracted answer: B
+1259it [16:20,  1.51it/s]C) Intravitreal anti-vascular endothelial growth factor therapy
+Extracted answer: C
+1260it [16:21,  1.61it/s]B)
+Extracted answer: B
+1261it [16:21,  1.42it/s]D) Obtain a whole-body fluorodeoxyglucose positron emission tomography (FDG-PET)/CT scan and paraneoplastic antibody evaluation
+Extracted answer: D
+1262it [16:23,  1.12it/s]B) Ulcerated segmental infantile hemangioma
+Extracted answer: B
+1263it [16:23,  1.31it/s]D) Metastatic breast carcinoma
+Extracted answer: D
+1264it [16:24,  1.39it/s]C) Juvenile xanthogranuloma
+Extracted answer: C
+1265it [16:25,  1.25it/s]A) Ameloblastoma
+Extracted answer: A
+1266it [16:26,  1.20it/s]C) Localized laryngeal amyloidosis
+Extracted answer: C
+1267it [16:27,  1.15it/s]B) Lymphangioma
+Extracted answer: B
+1268it [16:27,  1.25it/s]B) Shingles
+Extracted answer: B
+1269it [16:28,  1.22it/s]A) Gastrointestinal stromal tumor
+Extracted answer: A
+1270it [16:29,  1.17it/s]C) Cavernous hemangioma
+Extracted answer: C
+1271it [16:30,  1.39it/s]D) The positive ANA test result is nonspecific and may be related to autoimmune thyroid disease
+Extracted answer: D
+1272it [16:31,  1.17it/s]B) Perform a bone marrow biopsy
+Extracted answer: B
+1273it [16:31,  1.27it/s]B) Iododerma
+Extracted answer: B
+1274it [16:32,  1.45it/s]C) Mycobacterium marinum skin infection
+Extracted answer: C
+1275it [16:32,  1.62it/s]B) Axillary acne agminata
+Extracted answer: B
+1276it [16:33,  1.39it/s]B) Prescribe propranolol hydrochloride
+Extracted answer: B
+1277it [16:34,  1.55it/s]C) Perform fluorescein angiography
+Extracted answer: C
+1278it [16:35,  1.36it/s]D) Infantile hemangioma
+Extracted answer: D
+1279it [16:35,  1.53it/s]A) Lymphoepithelial carcinoma of parotid gland
+Extracted answer: A
+1280it [16:36,  1.66it/s]D) Calcinosis cutis
+Extracted answer: D
+1281it [16:37,  1.29it/s]C) Sialolipoma
+Extracted answer: C
+1282it [16:37,  1.50it/s]C) Eagle syndrome
+Extracted answer: C
+1283it [16:38,  1.69it/s]D) Pulmonary tumor embolism
+Extracted answer: D
+1284it [16:38,  1.65it/s]B) The patient is at lower risk of Richter transformation to diffuse large B-cell lymphoma.
+Extracted answer: B
+1285it [16:39,  1.30it/s]C) Intraductal papillary mucinous neoplasm
+Extracted answer: C
+1286it [16:40,  1.18it/s]B) Subclavian pseudoaneurysm
+Extracted answer: B
+1287it [16:41,  1.39it/s]C) Check a rapid plasma reagin (RPR) test
+Extracted answer: C
+1288it [16:41,  1.55it/s]B) Obtain a bilateral lower limb veins compression ultrasonography.
+Extracted answer: B
+1289it [16:42,  1.33it/s]C) Hand, foot, and mouth disease
+Extracted answer: C
+1290it [16:43,  1.50it/s]C) Cutaneous aspergillosis
+Extracted answer: C
+1291it [16:43,  1.48it/s]D) Chilblain
+Extracted answer: D
+1292it [16:44,  1.33it/s]C) Perform an eyelid nodule biopsy
+Extracted answer: C
+1293it [16:45,  1.23it/s]D) Restart antibiotic treatment and arrange for an otorhinolaryngology follow-up examination
+Extracted answer: D
+1294it [16:46,  1.21it/s]C) Recurrent painful ophthalmoplegic neuropathy
+Extracted answer: C
+1295it [16:47,  1.40it/s]A) Malignant melanoma of nasopharynx
+Extracted answer: A
+1296it [16:47,  1.48it/s]C) Myositis ossificans traumatica
+Extracted answer: C
+1297it [16:48,  1.62it/s]C) Chronic invasive fungal sinusitis
+Extracted answer: C
+1298it [16:48,  1.74it/s]C) Radiation-induced neurofibroma
+Extracted answer: C
+1299it [16:49,  1.95it/s]B) Angioedema
+Extracted answer: B
+1300it [16:49,  1.57it/s]B) Refer for ophthalmologic examination and orbital computed tomography.
+Extracted answer: B
+1301it [16:50,  1.64it/s]B) Gastrointestinal stromal tumor
+Extracted answer: B
+1302it [16:51,  1.73it/s]A) Pelvic teratoma
+Extracted answer: A
+1303it [16:51,  1.67it/s]A) Obtain a biopsy of the ulcer
+Extracted answer: A
+1304it [16:52,  1.61it/s]D) Spirometry cannot be used to evaluate for obstruction in the setting of a restrictive abnormality
+Extracted answer: D
+1305it [16:53,  1.18it/s]C) Refer to surgery for removal of the thymus
+Extracted answer: C
+1306it [16:54,  1.12it/s]B) Infantile myofibromatosis
+Extracted answer: B
+1307it [16:55,  1.29it/s]A) Ecthyma gangrenosum
+Extracted answer: A
+1308it [16:55,  1.33it/s]A) Leukocytoclastic vasculitis
+Extracted answer: A
+1309it [16:56,  1.51it/s]D) Treat with combined systemic chemotherapy and pars plana vitrectomy
+Extracted answer: D
+1310it [16:57,  1.28it/s]D) Antivascular endothelial growth factor therapy (anti-VEGF)
+Extracted answer: D
+1311it [16:58,  1.12it/s]B) Lymphatic malformation
+Extracted answer: B
+1312it [16:58,  1.34it/s]B) Chronic invasive fungal sinusitis
+Extracted answer: B
+1313it [16:59,  1.57it/s]B) Well-differentiated liposarcoma of the larynx.
+Extracted answer: B
+1314it [17:00,  1.20it/s]B) Venous malformation
+Extracted answer: B
+1315it [17:01,  1.16it/s]B) Adult rhabdomyoma
+Extracted answer: B
+1316it [17:02,  1.12it/s]C) Fibrosarcoma
+Extracted answer: C
+1317it [17:03,  1.11it/s]C) Adrenal myelolipoma
+Extracted answer: C
+1318it [17:03,  1.33it/s]B) Gastrointestinal stromal tumor
+Extracted answer: B
+1319it [17:04,  1.21it/s]D) Refer to an ophthalmologist urgently for slit-lamp and dilated examination
+Extracted answer: D
+1320it [17:05,  1.34it/s]D) Order respiratory isolation and rule out tuberculosis
+Extracted answer: D
+1321it [17:06,  1.24it/s]B) Further evaluation is required; repeat total testosterone measurement using an immunoassay.
+Extracted answer: B
+1322it [17:07,  1.05it/s]B) Mixed cryoglobulinemia
+Extracted answer: B
+1323it [17:08,  1.26it/s]C) Leukocytoclastic vasculitis
+Extracted answer: C
+1324it [17:09,  1.15it/s]A) Basal cell carcinoma
+Extracted answer: A
+1325it [17:09,  1.37it/s]B) Frontotemporal dementia
+Extracted answer: B
+1326it [17:10,  1.41it/s]D) Observation
+Extracted answer: D
+1327it [17:10,  1.67it/s]A) Discontinue treatment with chloroquine
+Extracted answer: A
+1328it [17:11,  1.62it/s]C) Circumscribed juvenile pityriasis rubra pilaris
+Extracted answer: C
+1329it [17:11,  1.73it/s]B) Nasal alveolar soft part sarcoma
+Extracted answer: B
+1330it [17:12,  1.43it/s]B) Rhabdomyosarcoma
+Extracted answer: B
+1331it [17:13,  1.59it/s]B) Chondrodermatitis nodularis chronica helicis
+Extracted answer: B
+1332it [17:14,  1.32it/s]D) Calcified teratoma/dermoid
+Extracted answer: D
+1333it [17:14,  1.34it/s]The correct answer is (D) Primary central nervous system lymphoma.
+1334it [17:15,  1.43it/s]C) Spinal dural arteriovenous fistula
+Extracted answer: C
+1335it [17:15,  1.57it/s]C) Gallbladder cancer
+Extracted answer: C
+1336it [17:16,  1.38it/s]A) D-dimer test result is positive. Imaging test is required.
+Extracted answer: A
+1337it [17:17,  1.51it/s]C) Order immobilization with non-weight-bearing activity
+Extracted answer: C
+1338it [17:17,  1.59it/s]C) Obtain antineutrophilic cytoplasmic antibodies (ANCA) titers
+Extracted answer: C
+1339it [17:18,  1.60it/s]C) Indeterminate cell histiocytosis
+Extracted answer: C
+1340it [17:19,  1.56it/s]C) Paraneoplastic pemphigus
+Extracted answer: C
+1341it [17:20,  1.36it/s]D) Erythema nodosum
+Extracted answer: D
+1342it [17:21,  1.27it/s]B)
+Extracted answer: B
+1343it [17:22,  1.23it/s]D) Blood tests to consider diagnosis of syphilitic chorioretinitis
+Extracted answer: D
+1344it [17:23,  1.12it/s]D) Hand-foot-and-mouth disease
+Extracted answer: D
+1345it [17:24,  1.06s/it]A) Olfactory neuroblastoma
+Extracted answer: A
+1346it [17:24,  1.17it/s]B) Lobular capillary hemangioma
+Extracted answer: B
+1347it [17:25,  1.13it/s]C) Osteochondroma
+Extracted answer: C
+1348it [17:26,  1.38it/s]B) Pleomorphic adenoma
+Extracted answer: B
+1349it [17:26,  1.56it/s](B) Extramammary Paget disease
+1350it [17:27,  1.36it/s]C) Polycystic liver disease
+Extracted answer: C
+1351it [17:28,  1.59it/s]D) Echinococcal disease
+Extracted answer: D
+1352it [17:28,  1.80it/s]B) The patient has euvolemic hypotonic hyponatremia.
+Extracted answer: B
+1353it [17:28,  1.77it/s]C) Perform skin biopsy and direct immunofluorescence
+Extracted answer: C
+1354it [17:30,  1.41it/s]C) The patient has moderate aortic valve stenosis with the severity overestimated by Doppler measurements.
+Extracted answer: C
+1355it [17:31,  1.19it/s]B) Perform lumbar puncture with patient in upright position to measure opening pressure and examine cerebrospinal fluid (CSF) components
+Extracted answer: B
+1356it [17:32,  1.13it/s]A) Pyoderma gangrenosum
+Extracted answer: A
+1357it [17:33,  1.06it/s]D) Granuloma inguinale
+Extracted answer: D
+1358it [17:34,  1.07it/s]B) Primary oral histoplasmosis
+Extracted answer: B
+1359it [17:35,  1.05it/s]A) Back-out technique: remove the fishhook in a retrograde manner through its entry wound
+Extracted answer: A
+1360it [17:36,  1.00s/it]B) Magnetic resonance imaging and/or venography
+Extracted answer: B
+1361it [17:37,  1.02it/s]B) Tracheoesophageal fistula
+Extracted answer: B
+1362it [17:37,  1.22it/s]A) Carcinoma of the gallbladder
+Extracted answer: A
+1363it [17:38,  1.17it/s]B) Small-bowel volvulus
+Extracted answer: B
+1364it [17:39,  1.15it/s]C) The patient has lactic acidosis from mesenteric ischemia.
+Extracted answer: C
+1365it [17:40,  1.07it/s]D) Observe and provide supplemental oxygen
+Extracted answer: D
+1366it [17:41,  1.07it/s]C) Order computed tomography imaging of the chest, abdomen, and pelvis
+Extracted answer: C
+1367it [17:42,  1.20it/s]C) Hyperbilirubinemia due to Gilbert syndrome
+Extracted answer: C
+1368it [17:43,  1.13it/s]D) Florid papillomatosis of the nipple
+Extracted answer: D
+1369it [17:43,  1.21it/s]D) Peeling skin disease
+Extracted answer: D
+1370it [17:44,  1.37it/s]C) Severe postpartum mastitis
+Extracted answer: C
+1371it [17:44,  1.57it/s]D) Fine-needle aspiration biopsy of ocular lesion
+Extracted answer: D
+1372it [17:45,  1.67it/s]C) Check hemoglobin A1c level
+Extracted answer: C
+1373it [17:45,  1.87it/s]B) Kerion celsi
+Extracted answer: B
+1374it [17:45,  2.07it/s]C) Retroperitoneal sarcoma
+Extracted answer: C
+1375it [17:46,  1.64it/s]D) Perforated diverticulitis
+Extracted answer: D
+1376it [17:47,  1.41it/s]D) Perform a skin scraping with microscopy
+Extracted answer: D
+1377it [17:49,  1.12it/s]D) The patient is hypoperfused and requires further fluid and pressor resuscitation.
+Extracted answer: D
+1378it [17:49,  1.27it/s]D) Unroof one of the papules and send for viral culture
+Extracted answer: D
+1379it [17:50,  1.30it/s]D) This audiogram depicts a right-sided conductive hearing loss (CHL) with a notch at 2000 Hz, consistent with otosclerosis.
+Extracted answer: D
+1380it [17:51,  1.18it/s]A) Erythema nodosum
+Extracted answer: A
+1381it [17:51,  1.43it/s]B) Calciphylaxis
+Extracted answer: B
+1382it [17:52,  1.31it/s]C) Dyshidrosiform pemphigoid
+Extracted answer: C
+1383it [17:53,  1.47it/s]D) Refer to otolaryngologist for nasal mass biopsy
+Extracted answer: D
+1384it [17:53,  1.60it/s]C) Cerebrospinal fluid analysis
+Extracted answer: C
+1385it [17:54,  1.40it/s]B) Neonatal lupus erythematosus
+Extracted answer: B
+1386it [17:55,  1.29it/s]D) Radiographic artifact
+Extracted answer: D
+1387it [17:56,  1.39it/s]B) The patient has hypercalcemia from thyroid suppression therapy.
+Extracted answer: B
+1388it [17:57,  1.24it/s]A) Perform skin biopsy for histopathology and culture
+Extracted answer: A
+1389it [17:58,  1.16it/s]B) Discontinue diclofenac
+Extracted answer: B
+1390it [17:58,  1.38it/s]D) Petechiae due to pinprick testing
+Extracted answer: D
+1391it [17:59,  1.26it/s]C) Amyloidosis
+Extracted answer: C
+1392it [18:00,  1.23it/s]C) Fusarium and Mucormycosis
+Extracted answer: C
+1393it [18:01,  1.17it/s]C) Reassure and observe
+Extracted answer: C
+1394it [18:02,  1.14it/s]D) Observe
+Extracted answer: D
+1395it [18:02,  1.29it/s]C) Rocky Mountain spotted fever
+Extracted answer: C
+1396it [18:03,  1.35it/s]B) Gastrointestinal stromal tumor with central necrosis
+Extracted answer: B
+1397it [18:04,  1.21it/s]B) Meckel diverticulum
+Extracted answer: B
+1398it [18:05,  1.18it/s]C) Lesser sac (omental bursa) internal hernia through the epiploic foramen
+Extracted answer: C
+1399it [18:06,  1.14it/s]B) The patient most likely has monoclonal gammopathy of undetermined significance (MGUS).
+Extracted answer: B
+1400it [18:06,  1.25it/s]A) Change dressings daily and implement hyperbaric oxygen therapy
+Extracted answer: A
+1401it [18:07,  1.17it/s]C) Type I non–ST-segment elevation myocardial infarction (MI) due to atherosclerotic plaque rupture.
+Extracted answer: C
+1402it [18:09,  1.05it/s]A)
+Extracted answer: A
+1403it [18:09,  1.30it/s]D) Biopsy the affected tissue
+Extracted answer: D
+1404it [18:10,  1.24it/s]C) Hypoplasminogenemia
+Extracted answer: C
+1405it [18:10,  1.44it/s]C) Neonatal pemphigus vulgaris
+Extracted answer: C
+1406it [18:11,  1.60it/s]D) Erythema annulare centrifugum, deep variant
+Extracted answer: D
+1407it [18:12,  1.34it/s]B) Erythema ab igne with superimposed chemotherapy effect
+Extracted answer: B
+1408it [18:13,  1.19it/s]B) Obtain optical coherence tomography
+Extracted answer: B
+1409it [18:13,  1.42it/s]D) Lateral canthotomy and cantholysis
+Extracted answer: D
+1410it [18:14,  1.26it/s]B) Neuroblastoma
+Extracted answer: B
+1411it [18:15,  1.23it/s]C) Malrotation with Ladd bands
+Extracted answer: C
+1412it [18:16,  1.19it/s]B) Gastrointestinal stromal tumor
+Extracted answer: B
+1413it [18:17,  1.21it/s]A) The patient has asymptomatic pyuria and bacteriuria.
+Extracted answer: A
+1414it [18:18,  1.13it/s]B) Perform a lumbar puncture
+Extracted answer: B
+1415it [18:18,  1.36it/s]C) Prescribe oral anthelmintic therapy
+Extracted answer: C
+1416it [18:19,  1.22it/s]C) The patient does not have LTBI. No further evaluation is needed.
+Extracted answer: C
+1417it [18:20,  1.11it/s]D) Subcutaneous panniculitis-like T-cell lymphoma
+Extracted answer: D
+1418it [18:21,  1.06it/s]A) Hereditary hemorrhagic telangiectasia
+Extracted answer: A
+1419it [18:22,  1.06it/s]D) Inverse psoriasis
+Extracted answer: D
+1420it [18:23,  1.20it/s]A) Reassure and observe
+Extracted answer: A
+1421it [18:24,  1.16it/s]C) Anterior chamber paracentesis for polymerase chain reaction
+Extracted answer: C
+1422it [18:24,  1.35it/s]C) Venous malformation
+Extracted answer: C
+1423it [18:25,  1.44it/s]C) Peritoneal carcinomatosis
+Extracted answer: C
+1424it [18:25,  1.65it/s]C) Nodular fasciitis
+Extracted answer: C
+1425it [18:26,  1.86it/s]C) Perform leishmaniasis polymerase chain reaction testing of biopsied tissue
+Extracted answer: C
+1426it [18:27,  1.53it/s]C) Perform an excisional lymph node biopsy
+Extracted answer: C
+1427it [18:28,  1.30it/s]A) Hereditary papulotranslucent acrokeratoderma
+Extracted answer: A
+1428it [18:28,  1.44it/s]A) Sweet syndrome
+Extracted answer: A
+1429it [18:29,  1.36it/s]C) Porokeratosis ptychotropica
+Extracted answer: C
+1430it [18:29,  1.49it/s]A) Confluent and reticulated papillomatosis
+Extracted answer: A
+1431it [18:30,  1.63it/s]D) Determine Epstein-Barr virus status and consider observation following cessation of methotrexate therapy
+Extracted answer: D
+1432it [18:31,  1.43it/s]C) Oral propranolol
+Extracted answer: C
+1433it [18:32,  1.30it/s]B) Incontinentia pigmenti
+Extracted answer: B
+1434it [18:32,  1.51it/s]C) Small-bowel volvulus
+Extracted answer: C
+1435it [18:33,  1.74it/s]D) Right thoracotomy with primary closure and mesh placement
+Extracted answer: D
+1436it [18:33,  1.44it/s]B) Endothelial adrenal cyst
+Extracted answer: B
+1437it [18:35,  1.21it/s]D) Obtain a biopsy of the tongue lesions.
+Extracted answer: D
+1438it [18:35,  1.27it/s]D) The patient does not have hepatic encephalopathy so no treatment is necessary.
+Extracted answer: D
+1439it [18:36,  1.23it/s]A) Order anti-dsDNA, anti-Smith, and antihistone antibody tests
+Extracted answer: A
+1440it [18:37,  1.20it/s]D) Perform orbitotomy with biopsy
+Extracted answer: D
+1441it [18:38,  1.17it/s]A) Observe
+Extracted answer: A
+1442it [18:38,  1.42it/s]C) Coccidioidomycosis
+Extracted answer: C
+1443it [18:39,  1.58it/s]C) Splenic lymphangiomatosis
+Extracted answer: C
+1444it [18:39,  1.76it/s]D) Catheterization of left superior intercostal vein
+Extracted answer: D
+1445it [18:40,  1.84it/s]D) Prescribe oral prednisone and HSV viral suppression therapy
+Extracted answer: D
+1446it [18:40,  1.92it/s]D) Obtain a biopsy of the lesion for pathological examination
+Extracted answer: D
+1447it [18:41,  2.02it/s]C) Primary aldosteronism is suggested; confirmation requires an aldosterone suppression test.
+Extracted answer: C
+1448it [18:42,  1.50it/s]A) Screen for autoantibodies
+Extracted answer: A
+1449it [18:42,  1.65it/s]D) Order serum titers of IgM and IgG for Bartonella henselae
+Extracted answer: D
+1450it [18:43,  1.61it/s]B) Rhabdomyosarcoma of the extraocular muscles
+Extracted answer: B
+1451it [18:43,  1.69it/s]B) Ileal intussusception
+Extracted answer: B
+1452it [18:44,  1.83it/s]C) Malignant peripheral nerve sheath tumor
+Extracted answer: C
+1453it [18:45,  1.46it/s]D) Bacterial abscess
+Extracted answer: D
+1454it [18:45,  1.64it/s]B) This patient has antibody to HCV and is no longer infected.
+Extracted answer: B
+1455it [18:46,  1.64it/s]B) Obtain a computed tomography scan of the chest
+Extracted answer: B
+1456it [18:46,  1.76it/s]C) Perform a punch biopsy of the lesion
+Extracted answer: C
+1457it [18:47,  1.81it/s]B) Obtain a bone marrow biopsy
+Extracted answer: B
+1458it [18:47,  1.73it/s]D) Prescribe lubrication with autologous serum tears
+Extracted answer: D
+1459it [18:48,  1.43it/s]B) Anterior segment tomography with Pentacam
+Extracted answer: B
+1460it [18:49,  1.43it/s]C) Lyme disease
+Extracted answer: C
+1461it [18:50,  1.34it/s]B) Desmoid tumor
+Extracted answer: B
+1462it [18:50,  1.59it/s]B) Mesenteric hematoma
+Extracted answer: B
+1463it [18:51,  1.59it/s]B) Ileocolic intussusception
+Extracted answer: B
+1464it [18:52,  1.38it/s]A)
+Extracted answer: A
+1465it [18:53,  1.31it/s]A) The patient is in congestive heart failure and needs a loop diuretic.
+Extracted answer: A
+1466it [18:54,  1.15it/s]D) Recommend enucleation
+Extracted answer: D
+1467it [18:55,  1.15it/s]A) Perform funduscopic examination (under anesthesia)
+Extracted answer: A
+1468it [18:55,  1.23it/s]D) Urgent immunology consultation for treatment of steroid-resistant sarcoidosis
+Extracted answer: D
+1469it [18:56,  1.26it/s]D) No treatment or diagnostic tests are necessary at this time
+Extracted answer: D
+1470it [18:57,  1.23it/s]B) Cecal inflammation with abscess
+Extracted answer: B
+1471it [18:58,  1.32it/s]A) Acute appendicitis
+Extracted answer: A
+1472it [18:59,  1.25it/s]A)
+Extracted answer: A
+1473it [18:59,  1.52it/s]A) Reassure patient that this is benign nail pigmentation
+Extracted answer: A
+1474it [19:00,  1.33it/s]B) Check for hypertension
+Extracted answer: B
+1475it [19:01,  1.28it/s]C) Scabies
+Extracted answer: C
+1476it [19:02,  1.26it/s]B) Angioleiomyoma
+Extracted answer: B
+1477it [19:02,  1.45it/s]B) Rectal prolapse
+Extracted answer: B
+1478it [19:02,  1.66it/s]C) Perform a skin biopsy of a targetoid lesion on the palm for pathologic evaluation
+Extracted answer: C
+1479it [19:03,  1.53it/s]C) Obtain both bacterial culture and fungal culture of the affected areas and administer both a systemic antibiotic and a systemic antifungal agent.
+Extracted answer: C
+1480it [19:04,  1.22it/s]A) Inquire about family cancer history and order genetic testing
+Extracted answer: A
+1481it [19:05,  1.13it/s]D) Minocycline-induced cutaneous polyarteritis nodosa
+Extracted answer: D
+1482it [19:06,  1.28it/s]B) Amebic liver abscess secondary to Entamoeba histolytica infection
+Extracted answer: B
+1483it [19:07,  1.33it/s]B) Spindle cell sarcoma of the chest wall
+Extracted answer: B
+1484it [19:08,  1.22it/s]C) Perform an incisional skin biopsy
+Extracted answer: C
+1485it [19:09,  1.17it/s]B) Erythema annulare centrifugum
+Extracted answer: B
+1486it [19:09,  1.37it/s]D) Skin amyloidosis
+Extracted answer: D
+1487it [19:09,  1.57it/s]C) Calcific uremic arteriolopathy
+Extracted answer: C
+1488it [19:10,  1.35it/s]C) Perform angioplasty of the right renal artery and angioplasty with stenting of the right external iliac artery.
+Extracted answer: C
+1489it [19:12,  1.12it/s]D) Meningococcemia
+Extracted answer: D
+1490it [19:12,  1.23it/s]C) Internal iliac artery aneurysm
+Extracted answer: C
+1491it [19:13,  1.44it/s]A) Pulmonary aspergilloma
+Extracted answer: A
+1492it [19:14,  1.31it/s]B) Initiate treatment for cerebral vasculitis with corticosteroids.
+Extracted answer: B
+1493it [19:14,  1.39it/s]C) Obtain lesional and perilesional skin biopsies for histopathology and direct immunofluorescence stains
+Extracted answer: C
+1494it [19:15,  1.25it/s]C) Vitreous biopsy
+Extracted answer: C
+1495it [19:16,  1.40it/s]B) Epidermal nevus
+Extracted answer: B
+1496it [19:16,  1.55it/s]B) Ileocecal intussusception
+Extracted answer: B
+1497it [19:17,  1.35it/s]C) Type 1 choledochal cyst
+Extracted answer: C
+1498it [19:18,  1.23it/s]B) Obtain radiographs of the mandible
+Extracted answer: B
+1499it [19:20,  1.02s/it]A) Perform magnetic resonance imaging of the brain and orbits.
+Extracted answer: A
+1500it [19:21,  1.02s/it]C) Proboscis lateralis
+Extracted answer: C
+1501it [19:21,  1.17it/s]D) Uterine leiomyoma
+Extracted answer: D
+1502it [19:22,  1.33it/s]C) Cystic neoplasm of the pancreas
+Extracted answer: C
+1503it [19:22,  1.45it/s]B) Obtain a biopsy of the lesion for pathology
+Extracted answer: B
+1504it [19:23,  1.63it/s]A) Broaden coverage with intravenous antibiotics and proceed with cholecystectomy
+Extracted answer: A
+1505it [19:23,  1.50it/s]C) Linear IgA dermatosis
+Extracted answer: C
+1506it [19:24,  1.67it/s]C) Spontaneous rupture of the spleen
+Extracted answer: C
+1507it [19:25,  1.41it/s]B) Acute appendiceal diverticulitis
+Extracted answer: B
+1508it [19:26,  1.27it/s]D) Perform a biopsy of a skin lesion for pathologic evaluation
+Extracted answer: D
+1509it [19:27,  1.16it/s]C) Obtain a Tzanck smear from the pustules
+Extracted answer: C
+1510it [19:27,  1.26it/s]C) Obtain a skin biopsy of a vesicle for pathologic evaluation
+Extracted answer: C
+1511it [19:28,  1.39it/s]D)
+Extracted answer: D
+1512it [19:28,  1.68it/s]C) Virus-associated trichodysplasia spinulosa
+Extracted answer: C
+1513it [19:29,  1.39it/s]A) Acute cholecystitis
+Extracted answer: A
+1514it [19:30,  1.26it/s]C) Perform laparoscopic appendectomy
+Extracted answer: C
+1515it [19:31,  1.46it/s]C) Treat with oral acyclovir
+Extracted answer: C
+1516it [19:31,  1.59it/s]D) Perform flexible bronchoscopy
+Extracted answer: D
+1517it [19:32,  1.39it/s]C) Order urgent serum titers of IgG and IgM for Ancylostoma caninum and Baylisascaris procyonis
+Extracted answer: C
+1518it [19:33,  1.24it/s]B) Primary varicella
+Extracted answer: B
+1519it [19:34,  1.36it/s]C) Cholecystocolonic fistula
+Extracted answer: C
+1520it [19:35,  1.14it/s]C) Gastrointestinal stromal tumor
+Extracted answer: C
+1521it [19:36,  1.12it/s]C) Recommend an extended esophageal myotomy
+Extracted answer: C
+1522it [19:36,  1.29it/s]C) Immunohistochemical testing
+Extracted answer: C
+1523it [19:37,  1.50it/s]C) Hepatic abscess
+Extracted answer: C
+1524it [19:38,  1.37it/s]D) Giant cell tumor
+Extracted answer: D
+1525it [19:39,  1.27it/s]1525it [19:39,  1.29it/s]
+File "gpt-3.5-turbo_Y_5.xlsx" created successfully.
